@@ -1,0 +1,18 @@
+
+#Github下载加速服务器
+jxsu=https://ghproxy.net
+
+
+###加速服务器备选###
+#https://dl.ghpig.top
+#https://gh.ddlc.top
+#https://mirror.ghproxy.com
+#https://ghproxy.net
+#https://git.xfj0.cn
+#https://slink.ltd
+
+#KernelSU releases下载头链接
+kndu=https://github.com/tiann/KernelSU/releases/download
+
+#KernelSU releases备选方案
+kndubx=https://alist.dishuo.top/d/public/kernelsu
