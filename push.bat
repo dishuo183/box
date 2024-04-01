@@ -2,5 +2,5 @@
 echo.&set /p "fka=ĞŞ¸ÄÏîÄ¿£º"
 git add *
 git commit -m "%fka%"
-git push origin main
+git push origin master
 pause
