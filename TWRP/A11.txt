@@ -1,0 +1,10 @@
+#A11【870】临时启动boot
+Mi10S=thyme=https://dishuo.lanzouu.com/ixBMH0ukw94b
+RedmiK40=alioth=https://dishuo.lanzouu.com/iklJd0ukwdij
+
+#A11【865】刷入recovery
+Mi10=umi=https://dishuo.lanzouu.com/i4U4k0ltv7xc
+Mi10Pro=cmi=https://dishuo.lanzouu.com/ilKep0ltv2uj
+Mi10Ultra=cas=https://dishuo.lanzouu.com/iqHjz0ltv47i
+RedmiK30Pro=lmi=https://dishuo.lanzouu.com/ihXkz0ltv5eb
+RedmiK30SUltra-Mi10T[Pro]=apollo=https://dishuo.lanzouu.com/i95DB0ltv6kd

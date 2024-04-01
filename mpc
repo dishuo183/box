@@ -1,0 +1,1381 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="小米历来设备都有对应的英文代号名称，早期命名以数字字母组成，后期采用了星座、化学元素等名词。其中红米系列的命名主题比较有趣，大多指向了奢侈事物，与产品定位反向而行。" />
+<meta name="keywords" content="小米代号,小米设备代号,小米手机代号查询" />
+<title>小米手机设备代号名称查询 &#8211; MIUI历史版本</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://miuiver.com/wp-content/themes/docui/assets/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://miuiver.com/wp-content/themes/docui/assets/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://miuiver.com/wp-content/themes/docui/assets/fancybox/jquery.fancybox.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='docui-css'  href='https://miuiver.com/wp-content/themes/docui/style.css?ver=1704957083' type='text/css' media='all' />
+<link rel='stylesheet' id='erphpdown-css'  href='https://miuiver.com/wp-content/plugins/erphpdown/static/erphpdown.css?ver=1647385270' type='text/css' media='screen' />
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/jquery-3.4.1.min.js' id='jquery-min-js'></script>
+<script>window._ERPHPDOWN = {"uri":"https://miuiver.com/wp-content/plugins/erphpdown", "payment": "1", "author": "mobantu"}</script>
+<link rel="icon" type="image/png" href="https://miuiver.com/favicon.png" />
+</head>
+
+<body >
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-custom" role="navigation">
+        <div class="container">
+            <a class="navbar-brand" href="https://miuiver.com/" title="各机型澎湃OS和MIUI旧版本下载索引" rel="home">MIUI历史版本</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsHeader" aria-controls="navbarsHeader" aria-expanded="false" aria-label="Toggle navigation">
+                <i></i>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarsHeader">
+                <ul id="menu-top-left" class="navbar-nav mt-1 mt-lg-0 mx-auto"><li><a href="https://miuiver.com/faq/">常见问题</a></li>
+<li><a href="https://miuiver.com/flash-tutorial/">教程合集</a></li>
+<li><a href="https://miuiver.com/miflash/">刷机工具</a></li>
+<li class="current-menu-item"><a href="https://miuiver.com/xiaomi-device-codename/" aria-current="page">手机代号</a></li>
+<li><a href="https://miuiver.com/mi-phone-data-backup/">备份还原</a></li>
+</ul>                				<ul id="menu-top-right" class="navbar-nav mb-1 mb-lg-0 ml-lg-3">
+				<li><span class='user-login-modal'>登录 | 注册</span></li>				</ul>
+				<script>document.getElementById("menu-top-right").insertAdjacentHTML("afterbegin","<li class='mr-lg-3'><a class='search-icon' title='搜索匹配机型ROM' href='https://miuiver.com/'>搜索机型</a></li>");</script>            </div>
+        </div>
+    </nav>
+</header>
+<main role="main" class="container">
+	<div class="row">
+		<div class="col-lg-12">
+		<article id="post-77" class="content page">
+		<h1>小米手机设备代号名称查询</h1>	<div class="p-content">
+		<p>小米每个机型都有对应的英文代号名称，早期命名以数字字母组成，后期采用了星座、化学元素等名词。其中红米系列的命名主题比较有趣，大多指向了奢侈事物，与产品定位反向而行。</p>
+<p>有时折腾手机需要知道其代号，但官方没有提供查询渠道，只能从刷机包名称或<a href="https://miuiver.com/enable-miui-advanced-options/" target="_blank" rel="noopener noreferrer">通过电脑连接手机 ADB 查看</a>（运行下面命令查询）。</p>
+<pre>adb shell getprop ro.product.name</pre>
+<p>下面是更简单查询方法（在 Fastboot 模式下查询），不用开 USB 调试，步骤如下。</p>
+<ul>
+<li>1. <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip" target="_blank" rel="noopener">下载 ADB 工具包</a>，下载后解压压缩包，进入解压的 platform-tools 文件夹，按住键盘上的 Shift 键，同时鼠标右键点击文件管理器空白处，在右键菜单里点击“在此处打开 Powershell 窗口”。</li>
+<li>2. 手机开机时长按<code>音量下键 + 开机键</code>进入 Fastboot 模式。</li>
+<li>3. 在之前打开的 Powershell 窗口里输入 <code>.\fastboot getvar product</code> 命令查询手机代号。</li>
+<li>* 退出 Fastboot 模式用 <code>.\fastboot reboot</code> 命令重启升级。</li>
+</ul>
+<p>下面列出小米所有已知设备的代号名称，定期更新。</p>
+<table id="deviceCode">
+<thead>
+<tr>
+<th>机型设备</th>
+<th>代号名称</th>
+<th>发布时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>小米CIVI 4 Pro</td>
+<td>chenfeng</td>
+<td>2024-03-21</td>
+</tr>
+<tr>
+<td>红米A3 / POCO C61</td>
+<td>blue</td>
+<td>2024-02-23</td>
+</tr>
+<tr>
+<td>小米14 Ultra</td>
+<td>aurora</td>
+<td>2024-02-22</td>
+</tr>
+<tr>
+<td>小米14 Pro 钛金属版</td>
+<td>shennong_t</td>
+<td>2024-02-22</td>
+</tr>
+<tr>
+<td>小米平板6S Pro 12.4</td>
+<td>sheng</td>
+<td>2024-02-22</td>
+</tr>
+<tr>
+<td>红米Note13 4G NFC</td>
+<td>sapphiren</td>
+<td>2024-01-15</td>
+</tr>
+<tr>
+<td>红米Note13 4G</td>
+<td>sapphire</td>
+<td>2024-01-15</td>
+</tr>
+<tr>
+<td>红米13R 5G / 红米13C 5G</td>
+<td>air</td>
+<td>2023-12-08</td>
+</tr>
+<tr>
+<td>红米K70E / POCO X6 Pro 5G</td>
+<td>duchamp</td>
+<td>2023-11-29</td>
+</tr>
+<tr>
+<td>红米K70 Pro</td>
+<td>manet</td>
+<td>2023-11-29</td>
+</tr>
+<tr>
+<td>红米K70</td>
+<td>vermeer</td>
+<td>2023-11-29</td>
+</tr>
+<tr>
+<td>红米13C / POCO C65</td>
+<td>gale</td>
+<td>2023-11-10</td>
+</tr>
+<tr>
+<td>小米14 Pro</td>
+<td>shennong</td>
+<td>2023-10-26</td>
+</tr>
+<tr>
+<td>小米14</td>
+<td>houji</td>
+<td>2023-10-26</td>
+</tr>
+<tr>
+<td>小米13T</td>
+<td>aristotle</td>
+<td>2023-09-26</td>
+</tr>
+<tr>
+<td>红米Note13 Pro 4G / POCO X6</td>
+<td>garnet</td>
+<td>2023-09-21</td>
+</tr>
+<tr>
+<td>红米Note13 5G / 13R Pro</td>
+<td>gold</td>
+<td>2023-09-21</td>
+</tr>
+<tr>
+<td>红米Note13 Pro 5G / Pro+ 5G</td>
+<td>zircon</td>
+<td>2023-09-21</td>
+</tr>
+<tr>
+<td>红米平板SE</td>
+<td>xun</td>
+<td>2023-08-15</td>
+</tr>
+<tr>
+<td>小米MIX Fold 3</td>
+<td>babylon</td>
+<td>2023-08-14</td>
+</tr>
+<tr>
+<td>红米K60 至尊版 / 小米13T Pro</td>
+<td>corot</td>
+<td>2023-08-14</td>
+</tr>
+<tr>
+<td>小米平板6 Max</td>
+<td>yudi</td>
+<td>2023-08-14</td>
+</tr>
+<tr>
+<td>POCO M6 Pro 4G</td>
+<td>emerald</td>
+<td>2023-08-05</td>
+</tr>
+<tr>
+<td>红米Note12R / POCO M6 Pro 5G / 红米12 5G</td>
+<td>sky</td>
+<td>2023-06-23</td>
+</tr>
+<tr>
+<td>红米12</td>
+<td>fire</td>
+<td>2023-06-03</td>
+</tr>
+<tr>
+<td>红米Note12T Pro</td>
+<td>pearl</td>
+<td>2023-05-29</td>
+</tr>
+<tr>
+<td>小米CIVI3</td>
+<td>yuechu</td>
+<td>2023-05-25</td>
+</tr>
+<tr>
+<td>红米Note12S</td>
+<td>sea</td>
+<td>2023-04-26</td>
+</tr>
+<tr>
+<td>小米13 Ultra</td>
+<td>ishtar</td>
+<td>2023-04-18</td>
+</tr>
+<tr>
+<td>小米平板6 Pro</td>
+<td>liuqin</td>
+<td>2023-04-18</td>
+</tr>
+<tr>
+<td>小米平板6</td>
+<td>pipa</td>
+<td>2023-04-18</td>
+</tr>
+<tr>
+<td>红米Note12 Pro 4G</td>
+<td>sweet_k6a</td>
+<td>2023-04-11</td>
+</tr>
+<tr>
+<td>红米Note12 4G NFC</td>
+<td>topaz</td>
+<td>2023-03-30</td>
+</tr>
+<tr>
+<td>红米Note12 4G</td>
+<td>tapas</td>
+<td>2023-03-30</td>
+</tr>
+<tr>
+<td>红米Note12 Turbo / POCO F5 5G</td>
+<td>marble</td>
+<td>2023-03-28</td>
+</tr>
+<tr>
+<td>POCO C51 / 红米A2 / A2+</td>
+<td>water</td>
+<td>2023-03-24</td>
+</tr>
+<tr>
+<td>红米12C / POCO C55</td>
+<td>earth</td>
+<td>2022-12-31</td>
+</tr>
+<tr>
+<td>红米Note12 Pro 极速版 / POCO X5 Pro 5G</td>
+<td>redwood</td>
+<td>2022-12-27</td>
+</tr>
+<tr>
+<td>红米K60E</td>
+<td>rembrandt</td>
+<td>2022-12-27</td>
+</tr>
+<tr>
+<td>红米K60 Pro</td>
+<td>socrates</td>
+<td>2022-12-27</td>
+</tr>
+<tr>
+<td>红米K60 / POCO F5 Pro</td>
+<td>mondrian</td>
+<td>2022-12-27</td>
+</tr>
+<tr>
+<td>小米13 Pro</td>
+<td>nuwa</td>
+<td>2022-12-12</td>
+</tr>
+<tr>
+<td>小米13</td>
+<td>fuxi</td>
+<td>2022-12-12</td>
+</tr>
+<tr>
+<td>POCO X5 5G</td>
+<td>moonstone</td>
+<td>2022-11-20</td>
+</tr>
+<tr>
+<td>红米Note12 5G / 红米Note12R Pro</td>
+<td>sunstone</td>
+<td>2022-10-27</td>
+</tr>
+<tr>
+<td>红米Note12 Pro</td>
+<td>ruby</td>
+<td>2022-10-27</td>
+</tr>
+<tr>
+<td>小米12T</td>
+<td>plato</td>
+<td>2022-10-04</td>
+</tr>
+<tr>
+<td>红米平板</td>
+<td>yunluo</td>
+<td>2022-10-04</td>
+</tr>
+<tr>
+<td>小米CIVI 2 / 小米13 Lite</td>
+<td>ziyi</td>
+<td>2022-09-27</td>
+</tr>
+<tr>
+<td>POCO C50 / 红米A1</td>
+<td>ice</td>
+<td>2022-09-15</td>
+</tr>
+<tr>
+<td>POCO M5S</td>
+<td>rosemary_p</td>
+<td>2022-09-05</td>
+</tr>
+<tr>
+<td>POCO M5 / 红米11 Prime 4G</td>
+<td>rock</td>
+<td>2022-09-05</td>
+</tr>
+<tr>
+<td>小米平板5 Pro 12.4</td>
+<td>dagu</td>
+<td>2022-08-11</td>
+</tr>
+<tr>
+<td>红米K50 至尊版 / 小米12T Pro</td>
+<td>diting</td>
+<td>2022-08-11</td>
+</tr>
+<tr>
+<td>小米MIX Fold 2</td>
+<td>zizhan</td>
+<td>2022-08-11</td>
+</tr>
+<tr>
+<td>小米12S</td>
+<td>mayfly</td>
+<td>2022-07-04</td>
+</tr>
+<tr>
+<td>小米12S Ultra</td>
+<td>thor</td>
+<td>2022-07-04</td>
+</tr>
+<tr>
+<td>小米12S Pro</td>
+<td>unicorn</td>
+<td>2022-07-04</td>
+</tr>
+<tr>
+<td>小米12 Pro 天玑版</td>
+<td>daumier</td>
+<td>2022-07-04</td>
+</tr>
+<tr>
+<td>小米12 Lite</td>
+<td>taoyao</td>
+<td>2022-07-04</td>
+</tr>
+<tr>
+<td>POCO C40</td>
+<td>frost</td>
+<td>2022-06-17</td>
+</tr>
+<tr>
+<td>红米Note11T Pro / Pro+ / POCO X4 GT / Pro / 红米K50i / Pro</td>
+<td>xaga</td>
+<td>2022-05-24</td>
+</tr>
+<tr>
+<td>小米CIVI 1S</td>
+<td>zijin</td>
+<td>2022-04-21</td>
+</tr>
+<tr>
+<td>红米Note 10T</td>
+<td>lilac</td>
+<td>2022-04-14</td>
+</tr>
+<tr>
+<td>红米10A</td>
+<td>dandelion</td>
+<td>2022-03-29</td>
+</tr>
+<tr>
+<td>红米10C</td>
+<td>fog</td>
+<td>2022-03-17</td>
+</tr>
+<tr>
+<td>红米K50</td>
+<td>rubens</td>
+<td>2022-03-17</td>
+</tr>
+<tr>
+<td>红米K50 Pro</td>
+<td>matisse</td>
+<td>2022-03-17</td>
+</tr>
+<tr>
+<td>红米K40S / POCO F4</td>
+<td>munch</td>
+<td>2022-03-17</td>
+</tr>
+<tr>
+<td>红米Note11 Pro</td>
+<td>viva</td>
+<td>2022-03-07</td>
+</tr>
+<tr>
+<td>红米Note11R</td>
+<td>lightcm</td>
+<td>2022-03-07</td>
+</tr>
+<tr>
+<td>红米Note11E / POCO M4 5G / 红米10 Prime+ 5G</td>
+<td>light</td>
+<td>2022-03-07</td>
+</tr>
+<tr>
+<td>红米K50 电竞版 / POCO F4 GT</td>
+<td>ingres</td>
+<td>2022-02-16</td>
+</tr>
+<tr>
+<td>红米Note11 NFC</td>
+<td>spesn</td>
+<td>2022-02-07</td>
+</tr>
+<tr>
+<td>红米Note11</td>
+<td>spes</td>
+<td>2022-02-07</td>
+</tr>
+<tr>
+<td>红米Note11E Pro / 红米Note11 Pro 5G</td>
+<td>veux</td>
+<td>2022-01-26</td>
+</tr>
+<tr>
+<td>红米Note 11S 5G</td>
+<td>opal</td>
+<td>2022-01-26</td>
+</tr>
+<tr>
+<td>红米Note 11S / POCO M4 Pro 4G</td>
+<td>fleur</td>
+<td>2022-01-26</td>
+</tr>
+<tr>
+<td>小米12 Pro</td>
+<td>zeus</td>
+<td>2021-12-28</td>
+</tr>
+<tr>
+<td>小米12X</td>
+<td>psyche</td>
+<td>2021-12-28</td>
+</tr>
+<tr>
+<td>小米12</td>
+<td>cupid</td>
+<td>2021-12-28</td>
+</tr>
+<tr>
+<td>POCO M4 Pro 5G</td>
+<td>evergreen</td>
+<td>2021-11-09</td>
+</tr>
+<tr>
+<td>红米Note11 Pro / Pro+</td>
+<td>pissarro</td>
+<td>2021-10-28</td>
+</tr>
+<tr>
+<td>红米Note11 5G</td>
+<td>evergo</td>
+<td>2021-10-28</td>
+</tr>
+<tr>
+<td>红米Note11 4G</td>
+<td>selenes</td>
+<td>2021-10-28</td>
+</tr>
+<tr>
+<td>小米CIVI</td>
+<td>mona</td>
+<td>2021-09-27</td>
+</tr>
+<tr>
+<td>小米11青春活力版</td>
+<td>lisa</td>
+<td>2021-09-15</td>
+</tr>
+<tr>
+<td>小米11T</td>
+<td>agate</td>
+<td>2021-09-15</td>
+</tr>
+<tr>
+<td>小米11T Pro</td>
+<td>vili</td>
+<td>2021-09-15</td>
+</tr>
+<tr>
+<td>红米10</td>
+<td>selene</td>
+<td>2021-08-19</td>
+</tr>
+<tr>
+<td>小米MIX4</td>
+<td>odin</td>
+<td>2021-08-10</td>
+</tr>
+<tr>
+<td>小米平板5 Pro (WiFi)</td>
+<td>elish</td>
+<td>2021-08-10</td>
+</tr>
+<tr>
+<td>小米平板5 Pro (5G)</td>
+<td>enuma</td>
+<td>2021-08-10</td>
+</tr>
+<tr>
+<td>小米平板5</td>
+<td>nabu</td>
+<td>2021-08-10</td>
+</tr>
+<tr>
+<td>红米Note 10 Pro (China) / POCO X3 GT</td>
+<td>chopin</td>
+<td>2021-05-26</td>
+</tr>
+<tr>
+<td>红米Note 10 (China) / POCO M3 Pro / 红米Note 11 SE</td>
+<td>camellia</td>
+<td>2021-05-26</td>
+</tr>
+<tr>
+<td>红米Note 8 (21年款)</td>
+<td>biloba</td>
+<td>2021-05-24</td>
+</tr>
+<tr>
+<td>红米K40 游戏增强版 / POCO F3 GT</td>
+<td>ares</td>
+<td>2021-04-27</td>
+</tr>
+<tr>
+<td>小米MIX Fold</td>
+<td>cetus</td>
+<td>2021-03-29</td>
+</tr>
+<tr>
+<td>小米11 青春版</td>
+<td>renoir</td>
+<td>2021-03-29</td>
+</tr>
+<tr>
+<td>小米11 Pro / Ultra</td>
+<td>star</td>
+<td>2021-03-29</td>
+</tr>
+<tr>
+<td>小米11 Lite</td>
+<td>courbet</td>
+<td>2021-03-29</td>
+</tr>
+<tr>
+<td>POCO X3 Pro</td>
+<td>vayu</td>
+<td>2021-03-22</td>
+</tr>
+<tr>
+<td>小米10S</td>
+<td>thyme</td>
+<td>2021-03-10</td>
+</tr>
+<tr>
+<td>红米Note 10 Pro</td>
+<td>sweet</td>
+<td>2021-03-04</td>
+</tr>
+<tr>
+<td>红米Note 10 5G</td>
+<td>camellian</td>
+<td>2021-03-04</td>
+</tr>
+<tr>
+<td>红米Note 10S</td>
+<td>rosemary</td>
+<td>2021-03-04</td>
+</tr>
+<tr>
+<td>红米Note 10</td>
+<td>mojito</td>
+<td>2021-03-04</td>
+</tr>
+<tr>
+<td>红米K40 Pro / Pro+ / 小米11i / 小米11X Pro</td>
+<td>haydn</td>
+<td>2021-02-25</td>
+</tr>
+<tr>
+<td>红米K40 / POCO F3</td>
+<td>alioth</td>
+<td>2021-02-25</td>
+</tr>
+<tr>
+<td>小米11</td>
+<td>venus</td>
+<td>2020-12-28</td>
+</tr>
+<tr>
+<td>红米Note 9T 5G</td>
+<td>cannong</td>
+<td>2020-12-01</td>
+</tr>
+<tr>
+<td>红米Note 9 Pro 5G / 小米10T Lite</td>
+<td>gauguin</td>
+<td>2020-11-26</td>
+</tr>
+<tr>
+<td>红米Note 9 5G</td>
+<td>cannon</td>
+<td>2020-11-26</td>
+</tr>
+<tr>
+<td>红米Note 9 4G / 红米9T</td>
+<td>lime</td>
+<td>2020-11-26</td>
+</tr>
+<tr>
+<td>POCO M3</td>
+<td>citrus</td>
+<td>2020-11-24</td>
+</tr>
+<tr>
+<td>红米K30S 至尊纪念版 / 小米10T / 10T Pro</td>
+<td>apollo</td>
+<td>2020-10-27</td>
+</tr>
+<tr>
+<td>POCO C3</td>
+<td>angelicain</td>
+<td>2020-10-06</td>
+</tr>
+<tr>
+<td>POCO M2</td>
+<td>shiva</td>
+<td>2020-09-08</td>
+</tr>
+<tr>
+<td>POCO X3 NFC</td>
+<td>surya</td>
+<td>2020-09-07</td>
+</tr>
+<tr>
+<td>红米9C NFC</td>
+<td>angelican</td>
+<td>2020-08-31</td>
+</tr>
+<tr>
+<td>红米9 (India)</td>
+<td>cattail</td>
+<td>2020-08-27</td>
+</tr>
+<tr>
+<td>小米10 至尊纪念版</td>
+<td>cas</td>
+<td>2020-08-11</td>
+</tr>
+<tr>
+<td>红米K30 至尊纪念版</td>
+<td>cezanne</td>
+<td>2020-08-11</td>
+</tr>
+<tr>
+<td>POCO M2 Pro</td>
+<td>gram</td>
+<td>2020-07-07</td>
+</tr>
+<tr>
+<td>红米9A / 9AT</td>
+<td>dandelion</td>
+<td>2020-06-30</td>
+</tr>
+<tr>
+<td>红米9C</td>
+<td>angelica</td>
+<td>2020-06-30</td>
+</tr>
+<tr>
+<td>红米9</td>
+<td>lancelot</td>
+<td>2020-06-15</td>
+</tr>
+<tr>
+<td>小米Note10 Lite</td>
+<td>toco</td>
+<td>2020-05-30</td>
+</tr>
+<tr>
+<td>红米10X Pro</td>
+<td>bomb</td>
+<td>2020-05-26</td>
+</tr>
+<tr>
+<td>红米10X 5G</td>
+<td>atom</td>
+<td>2020-05-26</td>
+</tr>
+<tr>
+<td>红米K30i 5G</td>
+<td>picasso_48m</td>
+<td>2020-05-26</td>
+</tr>
+<tr>
+<td>红米10X 4G / 红米Note 9</td>
+<td>merlin</td>
+<td>2020-04-30</td>
+</tr>
+<tr>
+<td>小米10 青春版</td>
+<td>vangogh</td>
+<td>2020-04-27</td>
+</tr>
+<tr>
+<td>小米10 Lite</td>
+<td>monet</td>
+<td>2020-03-27</td>
+</tr>
+<tr>
+<td>红米K30 Pro / 变焦版 / POCO F2 Pro</td>
+<td>lmi</td>
+<td>2020-03-24</td>
+</tr>
+<tr>
+<td>红米Note 9 Pro Max</td>
+<td>excalibur</td>
+<td>2020-03-12</td>
+</tr>
+<tr>
+<td>红米Note 9S / Pro (India)</td>
+<td>curtana</td>
+<td>2020-03-12</td>
+</tr>
+<tr>
+<td>红米Note9 Pro</td>
+<td>joyeuse</td>
+<td>2020-03-12</td>
+</tr>
+<tr>
+<td>小米10 Pro</td>
+<td>cmi</td>
+<td>2020-02-13</td>
+</tr>
+<tr>
+<td>小米10</td>
+<td>umi</td>
+<td>2020-02-13</td>
+</tr>
+<tr>
+<td>红米8A Pro / 红米8A Dual</td>
+<td>olivewood</td>
+<td>2020-02-11</td>
+</tr>
+<tr>
+<td>POCO X2 印度版</td>
+<td>phoenixin</td>
+<td>2020-02-04</td>
+</tr>
+<tr>
+<td>红米K30 5G</td>
+<td>picasso</td>
+<td>2019-12-10</td>
+</tr>
+<tr>
+<td>红米K30 4G / POCO X2</td>
+<td>phoenix</td>
+<td>2019-12-10</td>
+</tr>
+<tr>
+<td>红米Note 8T</td>
+<td>willow</td>
+<td>2019-11-06</td>
+</tr>
+<tr>
+<td>小米CC9 Pro / 小米Note 10</td>
+<td>tucana</td>
+<td>2019-11-06</td>
+</tr>
+<tr>
+<td>红米Note 8 Pro 印度版</td>
+<td>begoniain</td>
+<td>2019-10-21</td>
+</tr>
+<tr>
+<td>红米8</td>
+<td>olive</td>
+<td>2019-10-09</td>
+</tr>
+<tr>
+<td>红米8A</td>
+<td>olivelite</td>
+<td>2019-09-25</td>
+</tr>
+<tr>
+<td>小米9 Pro 5G</td>
+<td>crux</td>
+<td>2019-09-24</td>
+</tr>
+<tr>
+<td>红米K20 Pro 尊享版</td>
+<td>raphaels</td>
+<td>2019-09-19</td>
+</tr>
+<tr>
+<td>红米Note 8 Pro</td>
+<td>begonia</td>
+<td>2019-08-29</td>
+</tr>
+<tr>
+<td>红米Note 8</td>
+<td>ginkgo</td>
+<td>2019-08-29</td>
+</tr>
+<tr>
+<td>小米A3</td>
+<td>laurel</td>
+<td>2019-07-17</td>
+</tr>
+<tr>
+<td>小米CC9e</td>
+<td>laurus</td>
+<td>2019-07-02</td>
+</tr>
+<tr>
+<td>小米CC9 / 小米9 Lite</td>
+<td>pyxis</td>
+<td>2019-07-02</td>
+</tr>
+<tr>
+<td>小米CC9 美图定制版</td>
+<td>vela</td>
+<td>2019-07-02</td>
+</tr>
+<tr>
+<td>红米K20 / 小米9T 印度版</td>
+<td>davinciin</td>
+<td>2019-06-12</td>
+</tr>
+<tr>
+<td>红米K20 / 小米9T</td>
+<td>davinci</td>
+<td>2019-05-28</td>
+</tr>
+<tr>
+<td>红米K20 Pro / 小米9T Pro</td>
+<td>raphael</td>
+<td>2019-05-28</td>
+</tr>
+<tr>
+<td>红米K20 Pro 印度版</td>
+<td>raphaelin</td>
+<td>2019-05-28</td>
+</tr>
+<tr>
+<td>红米7A</td>
+<td>pine</td>
+<td>2019-05-22</td>
+</tr>
+<tr>
+<td>红米Y3</td>
+<td>onc</td>
+<td>2019-04-24</td>
+</tr>
+<tr>
+<td>红米7</td>
+<td>onclite</td>
+<td>2019-03-18</td>
+</tr>
+<tr>
+<td>小米MIX 3 5G</td>
+<td>andromeda</td>
+<td>2019-02-24</td>
+</tr>
+<tr>
+<td>小米9</td>
+<td>cepheus</td>
+<td>2019-02-20</td>
+</tr>
+<tr>
+<td>小米9 SE</td>
+<td>grus</td>
+<td>2019-02-20</td>
+</tr>
+<tr>
+<td>红米Go</td>
+<td>tiare</td>
+<td>2019-01-29</td>
+</tr>
+<tr>
+<td>红米Note 7</td>
+<td>lavender</td>
+<td>2019-01-10</td>
+</tr>
+<tr>
+<td>红米Note 7 Pro</td>
+<td>violet</td>
+<td>2019-01-10</td>
+</tr>
+<tr>
+<td>小米Play</td>
+<td>lotus</td>
+<td>2018-12-24</td>
+</tr>
+<tr>
+<td>红米Note 6 Pro</td>
+<td>tulip</td>
+<td>2018-11-22</td>
+</tr>
+<tr>
+<td>小米MIX 3</td>
+<td>perseus</td>
+<td>2018-10-25</td>
+</tr>
+<tr>
+<td>小米8 Lite</td>
+<td>platina</td>
+<td>2018-09-19</td>
+</tr>
+<tr>
+<td>红米6 Pro</td>
+<td>sakura</td>
+<td>2018-09-05</td>
+</tr>
+<tr>
+<td>POCO F1</td>
+<td>beryllium</td>
+<td>2018-08-22</td>
+</tr>
+<tr>
+<td>小米平板4/Plus</td>
+<td>clover</td>
+<td>2018-08-14</td>
+</tr>
+<tr>
+<td>小米A2 Lite</td>
+<td>daisy</td>
+<td>2018-07-24</td>
+</tr>
+<tr>
+<td>小米A2</td>
+<td>jasmine</td>
+<td>2018-07-24</td>
+</tr>
+<tr>
+<td>小米Max 3</td>
+<td>nitrogen</td>
+<td>2018-07-19</td>
+</tr>
+<tr>
+<td>红米6A</td>
+<td>cactus</td>
+<td>2018-06-12</td>
+</tr>
+<tr>
+<td>红米6</td>
+<td>cereus</td>
+<td>2018-06-12</td>
+</tr>
+<tr>
+<td>小米8</td>
+<td>dipper</td>
+<td>2018-05-31</td>
+</tr>
+<tr>
+<td>小米8 Pro 屏幕指纹版</td>
+<td>equuleus</td>
+<td>2018-05-31</td>
+</tr>
+<tr>
+<td>小米8 SE</td>
+<td>sirius</td>
+<td>2018-05-31</td>
+</tr>
+<tr>
+<td>小米8 透明探索版</td>
+<td>ursa</td>
+<td>2018-05-31</td>
+</tr>
+<tr>
+<td>红米S2 / 红米Y2</td>
+<td>ysl</td>
+<td>2018-05-10</td>
+</tr>
+<tr>
+<td>小米6X</td>
+<td>wayne</td>
+<td>2018-04-25</td>
+</tr>
+<tr>
+<td>小米MIX 2S</td>
+<td>polaris</td>
+<td>2018-03-27</td>
+</tr>
+<tr>
+<td>红米Note 5 / Pro</td>
+<td>whyred</td>
+<td>2018-02-14</td>
+</tr>
+<tr>
+<td>红米5</td>
+<td>rosy</td>
+<td>2017-12-07</td>
+</tr>
+<tr>
+<td>红米5 Plus</td>
+<td>vince</td>
+<td>2017-12-07</td>
+</tr>
+<tr>
+<td>红米5A</td>
+<td>riva</td>
+<td>2017-10-20</td>
+</tr>
+<tr>
+<td>小米MIX 2</td>
+<td>chiron</td>
+<td>2017-09-11</td>
+</tr>
+<tr>
+<td>小米Note 3</td>
+<td>jason</td>
+<td>2017-09-11</td>
+</tr>
+<tr>
+<td>小米A1</td>
+<td>tissot</td>
+<td>2017-09-05</td>
+</tr>
+<tr>
+<td>红米Note 5A 高配版</td>
+<td>ugg</td>
+<td>2017-08-21</td>
+</tr>
+<tr>
+<td>红米Note 5A 标准版</td>
+<td>ugglite</td>
+<td>2017-08-21</td>
+</tr>
+<tr>
+<td>小米5X</td>
+<td>tiffany</td>
+<td>2017-07-26</td>
+</tr>
+<tr>
+<td>小米Max 2</td>
+<td>oxygen</td>
+<td>2017-05-25</td>
+</tr>
+<tr>
+<td>小米6</td>
+<td>sagit</td>
+<td>2017-04-19</td>
+</tr>
+<tr>
+<td>小米平板3</td>
+<td>cappu</td>
+<td>2017-04-06</td>
+</tr>
+<tr>
+<td>小米5C</td>
+<td>meri</td>
+<td>2017-02-28</td>
+</tr>
+<tr>
+<td>红米4X</td>
+<td>santoni</td>
+<td>2017-02-28</td>
+</tr>
+<tr>
+<td>红米Note 4X 高通版</td>
+<td>mido</td>
+<td>2017-01-19</td>
+</tr>
+<tr>
+<td>红米Note 4 联发科版</td>
+<td>nikel</td>
+<td>2017-01-19</td>
+</tr>
+<tr>
+<td>红米4 高配版</td>
+<td>markw</td>
+<td>2016-11-04</td>
+</tr>
+<tr>
+<td>红米4 标准版</td>
+<td>prada</td>
+<td>2016-11-04</td>
+</tr>
+<tr>
+<td>红米4A</td>
+<td>rolex</td>
+<td>2016-11-04</td>
+</tr>
+<tr>
+<td>小米MIX</td>
+<td>lithium</td>
+<td>2016-10-25</td>
+</tr>
+<tr>
+<td>小米Note 2</td>
+<td>scorpio</td>
+<td>2016-10-25</td>
+</tr>
+<tr>
+<td>小米5S</td>
+<td>capricorn</td>
+<td>2016-09-27</td>
+</tr>
+<tr>
+<td>小米5S Plus</td>
+<td>natrium</td>
+<td>2016-09-27</td>
+</tr>
+<tr>
+<td>红米Pro</td>
+<td>omega</td>
+<td>2016-07-27</td>
+</tr>
+<tr>
+<td>红米3S</td>
+<td>land</td>
+<td>2016-06-15</td>
+</tr>
+<tr>
+<td>小米Max 高配版</td>
+<td>helium</td>
+<td>2016-06-01</td>
+</tr>
+<tr>
+<td>小米Max 标准版</td>
+<td>hydrogen</td>
+<td>2016-05-10</td>
+</tr>
+<tr>
+<td>小米4S</td>
+<td>aqua</td>
+<td>2016-02-24</td>
+</tr>
+<tr>
+<td>小米5</td>
+<td>gemini</td>
+<td>2016-02-24</td>
+</tr>
+<tr>
+<td>红米3 / Pro</td>
+<td>ido</td>
+<td>2016-01-10</td>
+</tr>
+<tr>
+<td>红米Note 3 台湾特别版</td>
+<td>kate</td>
+<td>2015-11-25</td>
+</tr>
+<tr>
+<td>红米Note 3 全网通版</td>
+<td>kenzo</td>
+<td>2015-11-25</td>
+</tr>
+<tr>
+<td>红米Note 3 双网通版</td>
+<td>hennessy</td>
+<td>2015-11-24</td>
+</tr>
+<tr>
+<td>小米平板2</td>
+<td>latte</td>
+<td>2015-11-24</td>
+</tr>
+<tr>
+<td>小米4C</td>
+<td>libra</td>
+<td>2015-09-22</td>
+</tr>
+<tr>
+<td>红米Note 2</td>
+<td>hermes</td>
+<td>2015-08-13</td>
+</tr>
+<tr>
+<td>小米4i</td>
+<td>ferrari</td>
+<td>2015-04-23</td>
+</tr>
+<tr>
+<td>红米2A 标准版</td>
+<td>lte26007</td>
+<td>2015-03-01</td>
+</tr>
+<tr>
+<td>小米Note 顶配版</td>
+<td>leo</td>
+<td>2015-01-15</td>
+</tr>
+<tr>
+<td>小米Note 双网通 / 全网通</td>
+<td>virgo</td>
+<td>2015-01-15</td>
+</tr>
+<tr>
+<td>红米手机2 增强版</td>
+<td>wt86047</td>
+<td>2015-01-04</td>
+</tr>
+<tr>
+<td>红米手机2</td>
+<td>wt88047</td>
+<td>2015-01-04</td>
+</tr>
+<tr>
+<td>红米Note 4G单卡版</td>
+<td>dior</td>
+<td>2014-08-12</td>
+</tr>
+<tr>
+<td>红米Note 4G双卡版</td>
+<td>gucci</td>
+<td>2014-08-12</td>
+</tr>
+<tr>
+<td>小米3 / 小米4</td>
+<td>cancro</td>
+<td>2014-07-22</td>
+</tr>
+<tr>
+<td>红米手机1S</td>
+<td>armani</td>
+<td>2014-07-16</td>
+</tr>
+<tr>
+<td>红米手机1S 移动3G版</td>
+<td>HM2014011</td>
+<td>2014-07-16</td>
+</tr>
+<tr>
+<td>红米手机1S 移动4G版</td>
+<td>HM2014501</td>
+<td>2014-07-16</td>
+</tr>
+<tr>
+<td>小米平板1</td>
+<td>mocha</td>
+<td>2014-05-15</td>
+</tr>
+<tr>
+<td>红米Note</td>
+<td>lcsh92</td>
+<td>2014-03-20</td>
+</tr>
+<tr>
+<td>小米2A</td>
+<td>taurus</td>
+<td>2013-10-24</td>
+</tr>
+<tr>
+<td>小米3 移动版</td>
+<td>pisces</td>
+<td>2013-09-05</td>
+</tr>
+<tr>
+<td>红米手机</td>
+<td>HM2013023</td>
+<td>2013-07-12</td>
+</tr>
+<tr>
+<td>小米2S</td>
+<td>aries</td>
+<td>2013-06-17</td>
+</tr>
+<tr>
+<td>小米1S</td>
+<td>mione</td>
+<td>2012-08-23</td>
+</tr>
+</tbody>
+</table>
+	</div>
+</article>
+		</div>
+	</div>
+</main>
+<footer>
+    <div class="container">
+        <span class="float-left">&copy; 2024 MIUI历史版本</span>
+        <a class="dh" href="https://miuiver.com/sitemap.xml">网站地图</a>
+        <span class="float-right">本站非小米旗下，仅收录原版固件</span>
+    </div>
+</footer>
+<script>document.querySelector("footer .float-left").insertAdjacentHTML("beforeend"," | <a href='mailto:support@miuiver.com'>联系方式</a>");</script>
+<div class="sign">
+	<script>window._ERPHPLOGIN={www: 'https://miuiver.com/',uri: 'https://miuiver.com/wp-content/plugins/erphplogin/'};</script>
+	<div class="sign-mask"></div>
+	<div class="container">
+		<div class="sign-close">&times;</div>
+		<div class="sign-tips"></div>
+		<form id="sign-up">
+			<div class="form-title">注册账号</div>
+			<div class="form-item">
+				<label for="user_email">邮箱</label>
+				<input type="email" name="email" id="user_email" class="form-control" placeholder="邮箱" />
+			</div>
+						<div class="form-item">
+				<label for="user_register">用户名</label>
+				<input type="text" name="name" id="user_register" class="form-control" placeholder="用户名（字母或数字）" />
+			</div>
+			<div class="form-item">
+				<label for="user_pass2">密码</label>
+				<input type="password" name="password2" id="user_pass2" class="form-control" placeholder="密码" />
+			</div>
+			<div class="sign-submit">
+				<input type="button" name="submit" class="btn signupsubmit-loader" value="注册" />
+				<input type="hidden" name="action" value="signup" />
+			</div>
+			<div class="sign-trans">
+				<span>已有账号？ <a href="javascript:;" class="signin-loader">登录</a></span>
+				<span><a href="https://miuiver.com/privacy-policy/" style="float:right" rel="nofollow" target="_blank">隐私政策</a></span>
+			</div>
+		</form>
+		<form id="sign-in" style="display: none;">
+			<div class="form-title">登录账号</div>
+			<div class="form-item">
+				<label for="user_login">用户名</label>
+				<input type="text" name="user_login" id="user_login" class="form-control" placeholder="用户名或邮箱地址" />
+			</div>
+			<div class="form-item">
+				<label for="user_pass">密码</label>
+				<input type="password" name="password" id="user_pass" class="form-control" placeholder="密码" />
+			</div>
+			<div class="sign-submit">
+				<input type="button" name="submit" class="btn signinsubmit-loader" value="登录" />
+				<input type="hidden" name="action" value="signin" />
+			</div>
+			<div class="sign-trans">
+				<span>没有账号？ <a href="javascript:;" class="signup-loader">注册</a></span>
+				<span><a href="https://miuiver.com/wp-login.php?action=lostpassword" style="float:right" rel="nofollow" target="_blank">忘记密码？</a></span>
+			</div>
+		</form>
+	</div>
+</div>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/browser-update.js' id='browser-update-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/popper.min.js' id='popper-umd-js'></script>
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/bootstrap/js/bootstrap.min.js' id='bootstrap-min-js'></script>
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/jquery.dataTables.min.js' id='datatables-min-js'></script>
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/datatables.mark.min.js' id='datatables-mark-min-js'></script>
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/fancybox/jquery.fancybox.min.js' id='fancybox-min-js'></script>
+<script type='text/javascript' src='//open.thunderurl.com/thunder-link.js' id='thunder-min-js'></script>
+<script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/docui.min.js?ver=1643631150' id='docui-min-js'></script>
+<script type='text/javascript' id='erphpdown-js-extra'>
+/* <![CDATA[ */
+var _ERPHP = {"ajaxurl":"https:\/\/miuiver.com\/wp-admin\/admin-ajax.php"};
+var erphpdown_ajax_url = "https:\/\/miuiver.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://miuiver.com/wp-content/plugins/erphpdown/static/erphpdown.js?ver=1647332632' id='erphpdown-js'></script>
+<style type="text/css">.dataTables_filter{padding:0!important;margin:1.25rem 0.75rem}.dataTables_filter label{font-weight:bold}.dataTables_filter input{box-shadow:none;background:#fbfbfb;color:#666;padding:.25rem 1.625rem;border:solid.125rem#ccc;border-radius:1.25rem;outline:none}</style>
+<script>$(document).ready(function(){$('#deviceCode').dataTable({"mark":true,"paging":false,"ordering":false,"info":false,"order":[],"columnDefs":[{"searchable":false,"targets":2}],"language":{"processing":"处理中...","search":"搜索：","zeroRecords":"没有匹配结果，请调整搜索词","emptyTable":"表中数据为空","loadingRecords":"数据加载中..."}})});</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-150949237-1', 'miuiver.com'); ga('send', 'pageview');</script>
+</body>
+</html>
