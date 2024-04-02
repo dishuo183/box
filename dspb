@@ -1,15 +1,20 @@
 
 #工具配置
-uh=240401
+uh=240402
 vygg=0
 arg=1
-dls=240106_240110_240117_240118_240121_240122_240127_240130_240131_240203_240207_240215
 
-#网站选择
+#蓝奏网站选择
 wvym=https://dishuo.top
-lzjx=https://api.hanximeng.com/lanzou/?url=
+lzjx=https://api.ecylt.top/v1/lanzou_link/?url=
 lzjxurl=downUrl
 ljzz=lanzouu
+
+#KernelSU releases下载头链接
+kndu=https://github.com/tiann/KernelSU/releases/download
+
+#KernelSU releases备选方案
+kndubx=https://alist.dishuo.top/d/public/kernelsu
 
 #小米限速修改方案
 xgzs=0
@@ -18,4 +23,13 @@ xgip=47.74.196.250_47.89.66.194_163.181.81.90
 ymdt=20240227
 xgym=cdn-ota.azureedge.net_bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
-##示例240224-240306-240314-240324
+##示例240401
+
+#Github加速服务###
+#https://ghproxy.net
+#https://dl.ghpig.top
+#https://gh.ddlc.top
+#https://mirror.ghproxy.com
+#https://ghproxy.net
+#https://git.xfj0.cn
+#https://slink.ltd
