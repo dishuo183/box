@@ -1,12 +1,12 @@
 
 #工具配置
-uh=240402
+uh=240404
 vygg=0
 arg=1
 
 #蓝奏网站选择
 wvym=https://dishuo.top
-lzjx=https://api.ecylt.top/v1/lanzou_link/?url=
+lzjx=https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
 lzjxurl=downUrl
 ljzz=lanzouu
 
@@ -23,7 +23,11 @@ xgip=47.74.196.250_47.89.66.194_163.181.81.90
 ymdt=20240227
 xgym=cdn-ota.azureedge.net_bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
-##示例240401
+##示例240401-240402
+
+#蓝奏解析服务###
+#https://api.ecylt.top/v1/lanzou_link/?url=
+#https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
 
 #Github加速服务###
 #https://ghproxy.net
