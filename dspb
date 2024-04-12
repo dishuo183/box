@@ -1,6 +1,6 @@
 
 #工具配置
-uh=240405
+uh=240412
 vygg=0
 arg=1
 
@@ -23,7 +23,7 @@ xgip=47.74.196.250_47.89.66.194_163.181.81.90
 ymdt=20240227
 xgym=cdn-ota.azureedge.net_bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
-##示例240401-240402-240404
+##示例240401-240402-240404-240405
 
 #蓝奏解析服务###
 #https://api.ecylt.top/v1/lanzou_link/?url=
