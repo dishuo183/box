@@ -63,7 +63,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17087748,
-        "download_count": 22,
+        "download_count": 445,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.168_2023-05-boot-gz.img.gz"
@@ -97,7 +97,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17357569,
-        "download_count": 7,
+        "download_count": 67,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.168_2023-05-boot-lz4.img.gz"
@@ -131,7 +131,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17143656,
-        "download_count": 9,
+        "download_count": 70,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.168_2023-05-boot.img.gz"
@@ -165,7 +165,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17091022,
-        "download_count": 4,
+        "download_count": 40,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.177_2023-07-boot-gz.img.gz"
@@ -199,7 +199,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17362952,
-        "download_count": 3,
+        "download_count": 19,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.177_2023-07-boot-lz4.img.gz"
@@ -233,7 +233,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17147524,
-        "download_count": 3,
+        "download_count": 73,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.177_2023-07-boot.img.gz"
@@ -267,7 +267,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17091581,
-        "download_count": 4,
+        "download_count": 24,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.185_2023-09-boot-gz.img.gz"
@@ -301,7 +301,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17365969,
-        "download_count": 3,
+        "download_count": 14,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.185_2023-09-boot-lz4.img.gz"
@@ -335,7 +335,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17145868,
-        "download_count": 5,
+        "download_count": 35,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.185_2023-09-boot.img.gz"
@@ -369,7 +369,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17117306,
-        "download_count": 8,
+        "download_count": 90,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.198_2024-01-boot-gz.img.gz"
@@ -403,7 +403,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17395522,
-        "download_count": 3,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.198_2024-01-boot-lz4.img.gz"
@@ -437,7 +437,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17172815,
-        "download_count": 4,
+        "download_count": 20,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.198_2024-01-boot.img.gz"
@@ -471,7 +471,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17128001,
-        "download_count": 4,
+        "download_count": 30,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.205_2024-03-boot-gz.img.gz"
@@ -505,7 +505,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17397823,
-        "download_count": 3,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.205_2024-03-boot-lz4.img.gz"
@@ -539,7 +539,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17183694,
-        "download_count": 4,
+        "download_count": 36,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10.205_2024-03-boot.img.gz"
@@ -573,7 +573,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 154384,
-        "download_count": 5,
+        "download_count": 45,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:13Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android12-5.10_kernelsu.ko"
@@ -607,7 +607,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18268015,
-        "download_count": 3,
+        "download_count": 19,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.168_2023-05-boot-gz.img.gz"
@@ -641,7 +641,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18678911,
-        "download_count": 3,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.168_2023-05-boot-lz4.img.gz"
@@ -675,7 +675,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18314769,
-        "download_count": 4,
+        "download_count": 19,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.168_2023-05-boot.img.gz"
@@ -709,7 +709,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18284878,
-        "download_count": 3,
+        "download_count": 18,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.177_2023-07-boot-gz.img.gz"
@@ -743,7 +743,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18697719,
-        "download_count": 3,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.177_2023-07-boot-lz4.img.gz"
@@ -777,7 +777,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18331683,
-        "download_count": 3,
+        "download_count": 22,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.177_2023-07-boot.img.gz"
@@ -811,7 +811,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18312129,
-        "download_count": 3,
+        "download_count": 17,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.177_2024-02-boot-gz.img.gz"
@@ -845,7 +845,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18722801,
-        "download_count": 3,
+        "download_count": 10,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.177_2024-02-boot-lz4.img.gz"
@@ -879,7 +879,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18358497,
-        "download_count": 3,
+        "download_count": 29,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.177_2024-02-boot.img.gz"
@@ -913,7 +913,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18286097,
-        "download_count": 3,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.186_2023-08-boot-gz.img.gz"
@@ -947,7 +947,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18699401,
-        "download_count": 3,
+        "download_count": 10,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.186_2023-08-boot-lz4.img.gz"
@@ -981,7 +981,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18333690,
-        "download_count": 3,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.186_2023-08-boot.img.gz"
@@ -1015,7 +1015,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18289540,
-        "download_count": 3,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.186_2023-09-boot-gz.img.gz"
@@ -1049,7 +1049,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18700771,
-        "download_count": 3,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.186_2023-09-boot-lz4.img.gz"
@@ -1083,7 +1083,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18336764,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.186_2023-09-boot.img.gz"
@@ -1117,7 +1117,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18294351,
-        "download_count": 2,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.189_2023-11-boot-gz.img.gz"
@@ -1151,7 +1151,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18709445,
-        "download_count": 2,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.189_2023-11-boot-lz4.img.gz"
@@ -1185,7 +1185,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18342716,
-        "download_count": 2,
+        "download_count": 14,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.189_2023-11-boot.img.gz"
@@ -1219,7 +1219,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18300746,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.198_2023-12-boot-gz.img.gz"
@@ -1253,7 +1253,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18715004,
-        "download_count": 2,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.198_2023-12-boot-lz4.img.gz"
@@ -1287,7 +1287,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18347404,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.198_2023-12-boot.img.gz"
@@ -1321,7 +1321,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18310895,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.205_2024-02-boot-gz.img.gz"
@@ -1355,7 +1355,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18722463,
-        "download_count": 2,
+        "download_count": 10,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.205_2024-02-boot-lz4.img.gz"
@@ -1389,7 +1389,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18358360,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.205_2024-02-boot.img.gz"
@@ -1423,7 +1423,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18310903,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.205_2024-03-boot-gz.img.gz"
@@ -1457,7 +1457,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18723348,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.205_2024-03-boot-lz4.img.gz"
@@ -1491,7 +1491,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18357994,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.205_2024-03-boot.img.gz"
@@ -1525,7 +1525,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18313887,
-        "download_count": 2,
+        "download_count": 22,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.209_2024-04-boot-gz.img.gz"
@@ -1559,7 +1559,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18725411,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.209_2024-04-boot-lz4.img.gz"
@@ -1593,7 +1593,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18360637,
-        "download_count": 2,
+        "download_count": 27,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10.209_2024-04-boot.img.gz"
@@ -1627,7 +1627,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 152752,
-        "download_count": 2,
+        "download_count": 21,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:13Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.10_kernelsu.ko"
@@ -1661,7 +1661,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18587814,
-        "download_count": 4,
+        "download_count": 23,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.104_2023-07-boot-gz.img.gz"
@@ -1695,7 +1695,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18996757,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.104_2023-07-boot-lz4.img.gz"
@@ -1729,7 +1729,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18632582,
-        "download_count": 2,
+        "download_count": 29,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.104_2023-07-boot.img.gz"
@@ -1763,7 +1763,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18604060,
-        "download_count": 2,
+        "download_count": 14,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.119_2023-09-boot-gz.img.gz"
@@ -1797,7 +1797,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 19012846,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.119_2023-09-boot-lz4.img.gz"
@@ -1831,7 +1831,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18649987,
-        "download_count": 2,
+        "download_count": 236,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.119_2023-09-boot.img.gz"
@@ -1865,7 +1865,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18607033,
-        "download_count": 2,
+        "download_count": 238,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.123_2023-11-boot-gz.img.gz"
@@ -1899,7 +1899,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 19022858,
-        "download_count": 2,
+        "download_count": 233,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.123_2023-11-boot-lz4.img.gz"
@@ -1933,7 +1933,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18653296,
-        "download_count": 2,
+        "download_count": 248,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.123_2023-11-boot.img.gz"
@@ -1967,7 +1967,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18625414,
-        "download_count": 3,
+        "download_count": 235,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.137_2023-12-boot-gz.img.gz"
@@ -2001,7 +2001,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 19036092,
-        "download_count": 2,
+        "download_count": 231,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.137_2023-12-boot-lz4.img.gz"
@@ -2035,7 +2035,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18671968,
-        "download_count": 2,
+        "download_count": 236,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.137_2023-12-boot.img.gz"
@@ -2069,7 +2069,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18657626,
-        "download_count": 3,
+        "download_count": 233,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.144_2024-03-boot-gz.img.gz"
@@ -2103,7 +2103,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 19071988,
-        "download_count": 2,
+        "download_count": 233,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.144_2024-03-boot-lz4.img.gz"
@@ -2137,7 +2137,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18704739,
-        "download_count": 2,
+        "download_count": 234,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.144_2024-03-boot.img.gz"
@@ -2171,7 +2171,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18662809,
-        "download_count": 2,
+        "download_count": 235,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.148_2024-04-boot-gz.img.gz"
@@ -2205,7 +2205,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 19073425,
-        "download_count": 2,
+        "download_count": 234,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.148_2024-04-boot-lz4.img.gz"
@@ -2239,7 +2239,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18708510,
-        "download_count": 3,
+        "download_count": 249,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.148_2024-04-boot.img.gz"
@@ -2273,7 +2273,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18489988,
-        "download_count": 4,
+        "download_count": 254,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.94_2023-05-boot-gz.img.gz"
@@ -2307,7 +2307,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18894893,
-        "download_count": 2,
+        "download_count": 243,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.94_2023-05-boot-lz4.img.gz"
@@ -2341,7 +2341,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18534789,
-        "download_count": 4,
+        "download_count": 292,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15.94_2023-05-boot.img.gz"
@@ -2375,7 +2375,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158504,
-        "download_count": 2,
+        "download_count": 24,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:13Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android13-5.15_kernelsu.ko"
@@ -2409,7 +2409,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14637498,
-        "download_count": 2,
+        "download_count": 341,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.110_2023-09-boot-gz.img.gz"
@@ -2443,7 +2443,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 15011998,
-        "download_count": 2,
+        "download_count": 361,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.110_2023-09-boot-lz4.img.gz"
@@ -2477,7 +2477,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14686533,
-        "download_count": 4,
+        "download_count": 364,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.110_2023-09-boot.img.gz"
@@ -2511,7 +2511,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14677682,
-        "download_count": 2,
+        "download_count": 361,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.131_2023-11-boot-gz.img.gz"
@@ -2545,7 +2545,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 15052064,
-        "download_count": 2,
+        "download_count": 360,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.131_2023-11-boot-lz4.img.gz"
@@ -2579,7 +2579,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14726677,
-        "download_count": 3,
+        "download_count": 361,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.131_2023-11-boot.img.gz"
@@ -2613,7 +2613,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14676150,
-        "download_count": 2,
+        "download_count": 356,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.137_2024-01-boot-gz.img.gz"
@@ -2647,7 +2647,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 15051024,
-        "download_count": 2,
+        "download_count": 329,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.137_2024-01-boot-lz4.img.gz"
@@ -2681,7 +2681,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14725210,
-        "download_count": 2,
+        "download_count": 225,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.137_2024-01-boot.img.gz"
@@ -2715,7 +2715,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14681479,
-        "download_count": 2,
+        "download_count": 44,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.144_2024-03-boot-gz.img.gz"
@@ -2749,7 +2749,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 15059567,
-        "download_count": 2,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.144_2024-03-boot-lz4.img.gz"
@@ -2783,7 +2783,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14731328,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.144_2024-03-boot.img.gz"
@@ -2817,7 +2817,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14686920,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.148_2024-04-boot-gz.img.gz"
@@ -2851,7 +2851,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 15061022,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.148_2024-04-boot-lz4.img.gz"
@@ -2885,7 +2885,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14737864,
-        "download_count": 2,
+        "download_count": 22,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15.148_2024-04-boot.img.gz"
@@ -2919,7 +2919,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 199168,
-        "download_count": 2,
+        "download_count": 21,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:13Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-5.15_kernelsu.ko"
@@ -2953,7 +2953,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 13794407,
-        "download_count": 2,
+        "download_count": 20,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.25_2023-10-boot-gz.img.gz"
@@ -2987,7 +2987,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14139437,
-        "download_count": 2,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:15Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.25_2023-10-boot-lz4.img.gz"
@@ -3021,7 +3021,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 13811391,
-        "download_count": 2,
+        "download_count": 37,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.25_2023-10-boot.img.gz"
@@ -3055,7 +3055,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14004875,
-        "download_count": 2,
+        "download_count": 14,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.43_2023-11-boot-gz.img.gz"
@@ -3089,7 +3089,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14378215,
-        "download_count": 2,
+        "download_count": 9,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.43_2023-11-boot-lz4.img.gz"
@@ -3123,7 +3123,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14024930,
-        "download_count": 2,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.43_2023-11-boot.img.gz"
@@ -3157,7 +3157,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14039773,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.57_2024-01-boot-gz.img.gz"
@@ -3191,7 +3191,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14417348,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.57_2024-01-boot-lz4.img.gz"
@@ -3225,7 +3225,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14059969,
-        "download_count": 2,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.57_2024-01-boot.img.gz"
@@ -3259,7 +3259,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14109277,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.68_2024-03-boot-gz.img.gz"
@@ -3293,7 +3293,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14459781,
-        "download_count": 2,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.68_2024-03-boot-lz4.img.gz"
@@ -3327,7 +3327,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14128616,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.68_2024-03-boot.img.gz"
@@ -3361,7 +3361,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14120222,
-        "download_count": 2,
+        "download_count": 14,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.75_2024-04-boot-gz.img.gz"
@@ -3395,7 +3395,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14466711,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.75_2024-04-boot-lz4.img.gz"
@@ -3429,7 +3429,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14138229,
-        "download_count": 2,
+        "download_count": 41,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1.75_2024-04-boot.img.gz"
@@ -3463,7 +3463,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 243096,
-        "download_count": 3,
+        "download_count": 25,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:13Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/android14-6.1_kernelsu.ko"
@@ -3497,7 +3497,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19403043,
-        "download_count": 9,
+        "download_count": 84,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android12-5.10.168_2023-05.zip"
@@ -3531,7 +3531,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19409042,
-        "download_count": 5,
+        "download_count": 77,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android12-5.10.177_2023-07.zip"
@@ -3565,7 +3565,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19408996,
-        "download_count": 2,
+        "download_count": 19,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android12-5.10.185_2023-09.zip"
@@ -3599,7 +3599,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19436612,
-        "download_count": 3,
+        "download_count": 20,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android12-5.10.198_2024-01.zip"
@@ -3633,7 +3633,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19446500,
-        "download_count": 5,
+        "download_count": 61,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android12-5.10.205_2024-03.zip"
@@ -3667,7 +3667,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21776577,
-        "download_count": 2,
+        "download_count": 28,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.168_2023-05.zip"
@@ -3701,7 +3701,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21795865,
-        "download_count": 2,
+        "download_count": 22,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.177_2023-07.zip"
@@ -3735,7 +3735,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21817126,
-        "download_count": 2,
+        "download_count": 20,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.177_2024-02.zip"
@@ -3769,7 +3769,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21797254,
-        "download_count": 2,
+        "download_count": 11,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.186_2023-08.zip"
@@ -3803,7 +3803,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21797630,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.186_2023-09.zip"
@@ -3837,7 +3837,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21804011,
-        "download_count": 2,
+        "download_count": 20,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.189_2023-11.zip"
@@ -3871,7 +3871,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21806231,
-        "download_count": 2,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:15Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.198_2023-12.zip"
@@ -3905,7 +3905,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21817717,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.205_2024-02.zip"
@@ -3939,7 +3939,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21817283,
-        "download_count": 2,
+        "download_count": 17,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.205_2024-03.zip"
@@ -3973,7 +3973,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21821518,
-        "download_count": 2,
+        "download_count": 23,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.10.209_2024-04.zip"
@@ -4007,7 +4007,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22089724,
-        "download_count": 2,
+        "download_count": 32,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.104_2023-07.zip"
@@ -4041,7 +4041,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22103836,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.119_2023-09.zip"
@@ -4075,7 +4075,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22113554,
-        "download_count": 2,
+        "download_count": 22,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.123_2023-11.zip"
@@ -4109,7 +4109,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22126463,
-        "download_count": 2,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.137_2023-12.zip"
@@ -4143,7 +4143,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22165310,
-        "download_count": 2,
+        "download_count": 18,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.144_2024-03.zip"
@@ -4177,7 +4177,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22166506,
-        "download_count": 5,
+        "download_count": 37,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.148_2024-04.zip"
@@ -4211,7 +4211,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21994151,
-        "download_count": 12,
+        "download_count": 78,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android13-5.15.94_2023-05.zip"
@@ -4245,7 +4245,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18145592,
-        "download_count": 2,
+        "download_count": 21,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-5.15.110_2023-09.zip"
@@ -4279,7 +4279,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18185957,
-        "download_count": 3,
+        "download_count": 16,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-5.15.131_2023-11.zip"
@@ -4313,7 +4313,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18185831,
-        "download_count": 2,
+        "download_count": 17,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-5.15.137_2024-01.zip"
@@ -4347,7 +4347,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18192527,
-        "download_count": 2,
+        "download_count": 19,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-5.15.144_2024-03.zip"
@@ -4381,7 +4381,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18196930,
-        "download_count": 3,
+        "download_count": 27,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-5.15.148_2024-04.zip"
@@ -4415,7 +4415,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17257473,
-        "download_count": 3,
+        "download_count": 62,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-6.1.25_2023-10.zip"
@@ -4449,7 +4449,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17475866,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-6.1.43_2023-11.zip"
@@ -4483,7 +4483,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17510508,
-        "download_count": 3,
+        "download_count": 18,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-6.1.57_2024-01.zip"
@@ -4517,7 +4517,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17585094,
-        "download_count": 3,
+        "download_count": 18,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-6.1.68_2024-03.zip"
@@ -4551,7 +4551,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17591748,
-        "download_count": 6,
+        "download_count": 51,
         "created_at": "2024-04-23T10:59:13Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-6.1.75_2024-04.zip"
@@ -4585,7 +4585,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16275034,
-        "download_count": 2,
+        "download_count": 15,
         "created_at": "2024-04-23T10:59:15Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-ARCVM-arm64-5.10.209.zip"
@@ -4619,7 +4619,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 10053394,
-        "download_count": 2,
+        "download_count": 10,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-ARCVM-x86_64-5.10.209.zip"
@@ -4653,7 +4653,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14848219,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-arm64-5.15.104.1.zip"
@@ -4687,7 +4687,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14847405,
-        "download_count": 3,
+        "download_count": 10,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-arm64-5.15.104.2.zip"
@@ -4721,7 +4721,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14850670,
-        "download_count": 2,
+        "download_count": 8,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-arm64-5.15.104.3.zip"
@@ -4755,7 +4755,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14842949,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:17Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-arm64-5.15.104.4.zip"
@@ -4789,7 +4789,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14847976,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-arm64-5.15.94.2.zip"
@@ -4823,7 +4823,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17558538,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-x86_64-5.15.104.1.zip"
@@ -4857,7 +4857,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17561144,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-x86_64-5.15.104.2.zip"
@@ -4891,7 +4891,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17562346,
-        "download_count": 2,
+        "download_count": 10,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-x86_64-5.15.104.3.zip"
@@ -4925,7 +4925,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17556315,
-        "download_count": 2,
+        "download_count": 32,
         "created_at": "2024-04-23T10:59:14Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-x86_64-5.15.104.4.zip"
@@ -4959,44 +4959,44 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17553888,
-        "download_count": 4,
+        "download_count": 25,
         "created_at": "2024-04-23T10:59:15Z",
         "updated_at": "2024-04-23T10:59:16Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/kernel-WSA-x86_64-5.15.94.2.zip"
       },
       {
-        "url": "https://api.github.com/repos/tiann/KernelSU/releases/assets/163737419",
-        "id": 163737419,
-        "node_id": "RA_kwDOIlmzK84Jwm9L",
-        "name": "KernelSU_v0.9.3_11804-release.apk",
-        "label": "",
+        "url": "https://api.github.com/repos/tiann/KernelSU/releases/assets/163881850",
+        "id": 163881850,
+        "node_id": "RA_kwDOIlmzK84JxKN6",
+        "name": "KernelSU_v0.9.3-3-gac4c6f7_11807-release.apk",
+        "label": null,
         "uploader": {
-          "login": "github-actions[bot]",
-          "id": 41898282,
-          "node_id": "MDM6Qm90NDE4OTgyODI=",
-          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "login": "tiann",
+          "id": 4233744,
+          "node_id": "MDQ6VXNlcjQyMzM3NDQ=",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4233744?v=4",
           "gravatar_id": "",
-          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-          "html_url": "https://github.com/apps/github-actions",
-          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-          "type": "Bot",
+          "url": "https://api.github.com/users/tiann",
+          "html_url": "https://github.com/tiann",
+          "followers_url": "https://api.github.com/users/tiann/followers",
+          "following_url": "https://api.github.com/users/tiann/following{/other_user}",
+          "gists_url": "https://api.github.com/users/tiann/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/tiann/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/tiann/subscriptions",
+          "organizations_url": "https://api.github.com/users/tiann/orgs",
+          "repos_url": "https://api.github.com/users/tiann/repos",
+          "events_url": "https://api.github.com/users/tiann/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/tiann/received_events",
+          "type": "User",
           "site_admin": false
         },
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
-        "size": 8561802,
-        "download_count": 1064,
-        "created_at": "2024-04-23T10:59:13Z",
-        "updated_at": "2024-04-23T10:59:14Z",
-        "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/KernelSU_v0.9.3_11804-release.apk"
+        "size": 8562210,
+        "download_count": 10764,
+        "created_at": "2024-04-24T02:14:33Z",
+        "updated_at": "2024-04-24T02:14:37Z",
+        "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/KernelSU_v0.9.3-3-gac4c6f7_11807-release.apk"
       }
     ],
     "tarball_url": "https://api.github.com/repos/tiann/KernelSU/tarball/v0.9.3",
@@ -5004,15 +5004,15 @@
     "body": "- [Kernel]: Let the kernel choose who is qualified to be the manager, avoiding potential side-channel attacks.\r\n- [Manager]: Support uninstall permanently and restore stock boot in Settings. You can restore stock boot before OTA to avoid download the full firmware.\r\n- [Module]: Fix the issue of the App Profile template page not opening.\r\n- [Manager]: Fix scroll issues in Settings.\r\n- [Manager]: Support choose kmi manually for installation.\r\n- [Manager]: Fix dark mode not working in Splash Screen.\r\n- [WebUI]: Allow opening multiple modules simultaneously on WebUI.\r\n- [Manager]: Add module shrink in Settings.\r\n- [Manager]: Fix \"grant root failed\" in some cases.\r\n- [Manager]: Allow to use other su to install LKM mode.",
     "reactions": {
       "url": "https://api.github.com/repos/tiann/KernelSU/releases/152375619/reactions",
-      "total_count": 10,
-      "+1": 4,
+      "total_count": 84,
+      "+1": 43,
       "-1": 0,
-      "laugh": 0,
-      "hooray": 4,
+      "laugh": 4,
+      "hooray": 13,
       "confused": 0,
-      "heart": 1,
-      "rocket": 1,
-      "eyes": 0
+      "heart": 12,
+      "rocket": 7,
+      "eyes": 5
     }
   },
   {
@@ -5079,7 +5079,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17085512,
-        "download_count": 10373,
+        "download_count": 10396,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.168_2023-05-boot-gz.img.gz"
@@ -5113,7 +5113,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17357005,
-        "download_count": 1960,
+        "download_count": 1963,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.168_2023-05-boot-lz4.img.gz"
@@ -5147,7 +5147,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17140373,
-        "download_count": 2185,
+        "download_count": 2191,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.168_2023-05-boot.img.gz"
@@ -5181,7 +5181,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17088618,
-        "download_count": 1465,
+        "download_count": 1467,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.177_2023-07-boot-gz.img.gz"
@@ -5215,7 +5215,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17362626,
-        "download_count": 1147,
+        "download_count": 1148,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.177_2023-07-boot-lz4.img.gz"
@@ -5249,7 +5249,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17144923,
-        "download_count": 1742,
+        "download_count": 1746,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.177_2023-07-boot.img.gz"
@@ -5283,7 +5283,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17091620,
-        "download_count": 670,
+        "download_count": 671,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.185_2023-09-boot-gz.img.gz"
@@ -5317,7 +5317,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17364800,
-        "download_count": 676,
+        "download_count": 677,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.185_2023-09-boot-lz4.img.gz"
@@ -5351,7 +5351,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17145781,
-        "download_count": 842,
+        "download_count": 844,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.185_2023-09-boot.img.gz"
@@ -5385,7 +5385,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17115271,
-        "download_count": 2102,
+        "download_count": 2103,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.198_2024-01-boot-gz.img.gz"
@@ -5419,7 +5419,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17393927,
-        "download_count": 526,
+        "download_count": 527,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.198_2024-01-boot-lz4.img.gz"
@@ -5453,7 +5453,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17170936,
-        "download_count": 614,
+        "download_count": 618,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:24Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.198_2024-01-boot.img.gz"
@@ -5487,7 +5487,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17124219,
-        "download_count": 733,
+        "download_count": 735,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.205_2024-03-boot-gz.img.gz"
@@ -5521,7 +5521,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17395432,
-        "download_count": 442,
+        "download_count": 443,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.205_2024-03-boot-lz4.img.gz"
@@ -5555,7 +5555,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 17179364,
-        "download_count": 794,
+        "download_count": 796,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10.205_2024-03-boot.img.gz"
@@ -5589,7 +5589,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 153456,
-        "download_count": 863,
+        "download_count": 868,
         "created_at": "2024-03-21T09:21:19Z",
         "updated_at": "2024-03-21T09:21:20Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android12-5.10_kernelsu.ko"
@@ -5623,7 +5623,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18271933,
-        "download_count": 579,
+        "download_count": 582,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.10.168_2023-05-boot-gz.img.gz"
@@ -5691,7 +5691,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18318289,
-        "download_count": 442,
+        "download_count": 444,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.10.168_2023-05-boot.img.gz"
@@ -5793,7 +5793,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18331402,
-        "download_count": 356,
+        "download_count": 357,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.10.177_2023-07-boot.img.gz"
@@ -5895,7 +5895,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18358576,
-        "download_count": 411,
+        "download_count": 412,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.10.177_2024-02-boot.img.gz"
@@ -6371,7 +6371,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18722230,
-        "download_count": 253,
+        "download_count": 254,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.10.205_2024-02-boot-lz4.img.gz"
@@ -6643,7 +6643,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18632430,
-        "download_count": 465,
+        "download_count": 466,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.15.104_2023-07-boot.img.gz"
@@ -6745,7 +6745,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18649963,
-        "download_count": 290,
+        "download_count": 291,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.15.119_2023-09-boot.img.gz"
@@ -7119,7 +7119,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18892164,
-        "download_count": 589,
+        "download_count": 590,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.15.94_2023-05-boot-lz4.img.gz"
@@ -7153,7 +7153,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 18534409,
-        "download_count": 1745,
+        "download_count": 1746,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.15.94_2023-05-boot.img.gz"
@@ -7187,7 +7187,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156736,
-        "download_count": 515,
+        "download_count": 516,
         "created_at": "2024-03-21T09:21:19Z",
         "updated_at": "2024-03-21T09:21:20Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android13-5.15_kernelsu.ko"
@@ -7323,7 +7323,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14675772,
-        "download_count": 259,
+        "download_count": 260,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-5.15.131_2023-11-boot-gz.img.gz"
@@ -7391,7 +7391,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14724703,
-        "download_count": 289,
+        "download_count": 290,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-5.15.131_2023-11-boot.img.gz"
@@ -7425,7 +7425,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14675983,
-        "download_count": 262,
+        "download_count": 263,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-5.15.137_2024-01-boot-gz.img.gz"
@@ -7595,7 +7595,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14732751,
-        "download_count": 463,
+        "download_count": 464,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-5.15.144_2024-03-boot.img.gz"
@@ -7663,7 +7663,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 13794011,
-        "download_count": 434,
+        "download_count": 435,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-6.1.25_2023-10-boot-gz.img.gz"
@@ -8003,7 +8003,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14460159,
-        "download_count": 335,
+        "download_count": 337,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-6.1.68_2024-03-boot-lz4.img.gz"
@@ -8037,7 +8037,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 14129212,
-        "download_count": 732,
+        "download_count": 733,
         "created_at": "2024-03-21T09:21:21Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/android14-6.1.68_2024-03-boot.img.gz"
@@ -8105,7 +8105,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19403979,
-        "download_count": 1161,
+        "download_count": 1166,
         "created_at": "2024-03-21T09:21:19Z",
         "updated_at": "2024-03-21T09:21:21Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android12-5.10.168_2023-05.zip"
@@ -8139,7 +8139,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19408816,
-        "download_count": 1280,
+        "download_count": 1283,
         "created_at": "2024-03-21T09:21:19Z",
         "updated_at": "2024-03-21T09:21:21Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android12-5.10.177_2023-07.zip"
@@ -8173,7 +8173,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19407445,
-        "download_count": 354,
+        "download_count": 356,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android12-5.10.185_2023-09.zip"
@@ -8207,7 +8207,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19435124,
-        "download_count": 419,
+        "download_count": 420,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:21Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android12-5.10.198_2024-01.zip"
@@ -8241,7 +8241,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19442306,
-        "download_count": 954,
+        "download_count": 960,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android12-5.10.205_2024-03.zip"
@@ -8309,7 +8309,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21794247,
-        "download_count": 349,
+        "download_count": 350,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android13-5.10.177_2023-07.zip"
@@ -8343,7 +8343,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21817571,
-        "download_count": 455,
+        "download_count": 456,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android13-5.10.177_2024-02.zip"
@@ -8411,7 +8411,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21800515,
-        "download_count": 253,
+        "download_count": 254,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android13-5.10.186_2023-09.zip"
@@ -8717,7 +8717,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22158646,
-        "download_count": 485,
+        "download_count": 487,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android13-5.15.144_2024-02.zip"
@@ -8751,7 +8751,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21993491,
-        "download_count": 1481,
+        "download_count": 1484,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:22Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android13-5.15.94_2023-05.zip"
@@ -8785,7 +8785,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18146482,
-        "download_count": 393,
+        "download_count": 394,
         "created_at": "2024-03-21T09:21:20Z",
         "updated_at": "2024-03-21T09:21:23Z",
         "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/AnyKernel3-android14-5.15.110_2023-09.zip"
