@@ -1,5 +1,5 @@
 @echo off & setlocal enabledelayedexpansion
-set "bb=D:\ProgramFiles\Desktop\tools\DSPB\TOOL\bin\busybox.exe"
+set "bb=busybox.exe"
 for /f %%a in ('!bb! ls !cd! ^|!bb! grep "A"') do (
 !bb! sed -i "s/DS_//g" !cd!\%%a
 !bb! sed -i "s/_%%a//g" !cd!\%%a
