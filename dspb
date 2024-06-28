@@ -16,8 +16,9 @@ kndu=https://github.com/tiann/KernelSU/releases/download
 #KernelSU releases备选方案
 kndubx=https://alist.dishuo.top/d/public/kernelsu
 
-#ko文件备用下载
-kobydl=https://dishuo.lanzouw.com/ik9X622vld4j
+#Ksud下载
+ksuddl=https://dishuo.lanzouw.com/i5Kvg22yawof
+ksudmd5=bed811b440e53039934cb23398360a9c
 
 #小米限速修改方案
 xgzs=0
