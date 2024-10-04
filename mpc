@@ -63,31 +63,6 @@
 </thead>
 <tbody>
 <tr>
-<td>红米平板SE 8.7 WiFi</td>
-<td>flare</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td>红米平板SE 8.7 4G</td>
-<td>spark</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td>红米A3x</td>
-<td>klein</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td>红米13 / POCO M6</td>
-<td>moon</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td>红米13 5G / 红米Note 13R / POCO M6 Plus 5G</td>
-<td>breeze</td>
-<td>&#8211;</td>
-</tr>
-<tr>
 <td>小米14T</td>
 <td>degas</td>
 <td>2024-09-26</td>
@@ -118,6 +93,21 @@
 <td>2024-08-30</td>
 </tr>
 <tr>
+<td>红米平板SE 8.7 WiFi</td>
+<td>flare</td>
+<td>2024-08-08</td>
+</tr>
+<tr>
+<td>红米平板SE 8.7 4G</td>
+<td>spark</td>
+<td>2024-08-08</td>
+</tr>
+<tr>
+<td>红米13 5G / 红米Note 13R / POCO M6 Plus 5G</td>
+<td>breeze</td>
+<td>2024-08-05</td>
+</tr>
+<tr>
 <td>小米MIX Flip</td>
 <td>ruyi</td>
 <td>2024-07-19</td>
@@ -131,6 +121,11 @@
 <td>红米K70 至尊版 / 小米14T Pro</td>
 <td>rothko</td>
 <td>2024-07-19</td>
+</tr>
+<tr>
+<td>红米A3x</td>
+<td>klein</td>
+<td>2024-05-24</td>
 </tr>
 <tr>
 <td>红米Turbo 3 / POCO F6</td>
@@ -181,6 +176,11 @@
 <td>红米Note13 4G</td>
 <td>sapphire</td>
 <td>2024-01-15</td>
+</tr>
+<tr>
+<td>红米13 / POCO M6</td>
+<td>moon</td>
+<td>2023-12-26</td>
 </tr>
 <tr>
 <td>红米13R 5G / 红米13C 5G</td>
