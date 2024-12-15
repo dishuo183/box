@@ -1,6 +1,6 @@
 
 #工具配置
-uh=241202
+uh=241215
 vygg=1
 arg=1
 
@@ -33,17 +33,8 @@ ymdt=20240815
 xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
 ##示例240401-240402-240404-240405-240412-240414-240422-240730-240801s-240912-241006
-##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004
+##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004-241202
 
 #蓝奏解析服务###
 #https://api.ecylt.top/v1/lanzou_link/?url=
 #https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
-
-#Github加速服务###
-#https://ghproxy.net
-#https://dl.ghpig.top
-#https://gh.ddlc.top
-#https://mirror.ghproxy.com
-#https://ghproxy.net
-#https://git.xfj0.cn
-#https://slink.ltd
