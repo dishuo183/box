@@ -7,6 +7,7 @@ arg=1
 #下载网站配置
 wvym=https://dishuo.top
 wpxv=https://alist.dishuo.top
+jxwv=https://xm.dishuo.top
 zvlj=https://afdian.com/a/dishuo
 lzjx=https://api.ecylt.top/v1/lanzou_link/?url=
 lzjxurl=downUrl
@@ -36,5 +37,9 @@ xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miu
 ##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004-241202
 
 #蓝奏解析服务###
-#https://api.ecylt.top/v1/lanzou_link/?url=
-#https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
+#downUrl-https://api.ecylt.top/v1/lanzou_link/?url=
+#downUrl-https://api.cenguigui.cn/api/lanzou/api.php?url=
+#url-https://api.52vmy.cn/api/query/lanzou?url=
+#fileUrl-https://shanhe.kim/api/wz/lzy.php?url=
+#fileUrl-https://shanhe.kim/api/wz/lanzouy.php?url=
+#(部分地区屏蔽)downUrl-https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
