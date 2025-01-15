@@ -1,6 +1,6 @@
 
 #工具配置
-uh=250106
+uh=250115
 vygg=1
 jxwv=1
 arg=1
@@ -13,18 +13,15 @@ lzjx=https://api.ecylt.top/v1/lanzou_link/?url=
 lzjxurl=downUrl
 ljzz=lanzouw
 
-#KernelSU releases下载头链接
+#KernelSU releases下载
+ksuvs=v1.0.2
 kndu=https://github.com/tiann/KernelSU/releases/download
-
-#KernelSU releases备选方案
 KernelSUapk=KernelSU_v1.0.2_11986-release.apk
-knduapklz=https://dishuo.lanzouw.com/iGLDK2e0m6ni
 KernelSUapkl=KernelSU_v1.0.0_11874-release.apk
-knduapklzl=https://dishuo.lanzouw.com/iuWd62i5wrvg
 
 #Ksud下载
-ksuddl=https://dishuo.lanzouw.com/i0yIx2k4ou7i
-ksudmd5=c86732a32ba1c1596006d6be31fabd81
+ksuddl=https://dishuo.lanzouw.com/iZyYS2l0f2ab
+ksudmd5=908f0b9c246269eb532d470e2c335df1
 
 #小米限速修改方案
 xgzs=0
@@ -33,7 +30,7 @@ xgip=47.79.49.1_47.89.66.194
 ymdt=20240815
 xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
-##示例240401-240402-240404-240405-240412-240414-240422-240730-240801s-240912-241006-241215
+##示例240401-240402-240404-240405-240412-240414-240422-240730-240801s-240912-241006-241215-250106
 ##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004-241202-241218
 
 #蓝奏解析服务###

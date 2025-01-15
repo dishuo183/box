@@ -63,6 +63,21 @@
 </thead>
 <tbody>
 <tr>
+<td>红米Note 14 Pro 4G</td>
+<td>obsidian</td>
+<td>2025-01-13</td>
+</tr>
+<tr>
+<td>红米Note 14 4G</td>
+<td>tanzanite</td>
+<td>2025-01-13</td>
+</tr>
+<tr>
+<td>红米Turbo 4 / POCO X7 Pro</td>
+<td>rodin</td>
+<td>2025-01-02</td>
+</tr>
+<tr>
 <td>红米K80 Pro</td>
 <td>miro</td>
 <td>2024-11-27</td>
@@ -113,12 +128,12 @@
 <td>2024-09-26</td>
 </tr>
 <tr>
-<td>红米Note14 5G</td>
+<td>红米Note14 5G / POCO M7 Pro 5G</td>
 <td>beryl</td>
 <td>2024-09-26</td>
 </tr>
 <tr>
-<td>红米14R 5G</td>
+<td>红米14R 5G / POCO M7 5G</td>
 <td>flame</td>
 <td>2024-09-12</td>
 </tr>
@@ -1421,7 +1436,7 @@
 </main>
 <footer>
     <div class="container">
-        <span class="float-left">&copy; 2024 MIUI历史版本</span>
+        <span class="float-left">&copy; 2025 MIUI历史版本</span>
         <a class="dh" href="https://miuiver.com/sitemap.xml">网站地图</a>
         <span class="float-right">本站非小米旗下，仅收录原版固件</span>
     </div>
