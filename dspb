@@ -1,27 +1,30 @@
 
-#工具配置
-uh=250115
+#工具版本
+uh=250202
+
+#云控配置
 vygg=1
-jxwv=1
+yvwjzv=5
+jqzv=10
 arg=1
 
 #下载网站配置
 wvym=https://dspb.dishuo.top
 wpxv=https://alist.dishuo.top
 zvlj=https://afdian.com/a/dishuo
-lzjx=https://api.ecylt.top/v1/lanzou_link/?url=
+lzjx=https://api.cenguigui.cn/api/lanzou/api.php?url=
 lzjxurl=downUrl
 ljzz=lanzouw
 
 #KernelSU releases下载
 ksuvs=v1.0.3
 kndu=https://github.com/tiann/KernelSU/releases/download
-KernelSUapk=KernelSU_v1.0.3_12018-release.apk
+KernelSUapkx=KernelSU_v1.0.3_12018-release.apk
 KernelSUapkl=KernelSU_v1.0.0_11874-release.apk
 
 #Ksud下载
-ksuddl=https://dishuo.lanzouw.com/iHNnZ2lxcbsd
-ksudmd5=af044aa2c1594bd0135af759f9d16ff0
+ksuddl=https://dishuo.lanzouw.com/ip2w82mjftha
+ksudmd5=753fd9ff617fcbb87c0f11f99f5cdd0b
 
 #小米限速修改方案
 xgzs=0
@@ -31,7 +34,7 @@ ymdt=20240815
 xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
 ##示例240401-240402-240404-240405-240412-240414-240422-240730-240801s-240912-241006-241215-250106
-##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004-241202-241218
+##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004-241202-241218-250115
 
 #蓝奏解析服务###
 #downUrl-https://api.ecylt.top/v1/lanzou_link/?url=
@@ -40,3 +43,6 @@ xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miu
 #fileUrl-https://shanhe.kim/api/wz/lzy.php?url=
 #fileUrl-https://shanhe.kim/api/wz/lanzouy.php?url=
 #(部分地区屏蔽)downUrl-https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
+
+#自建解析服务
+#lzjxxz=zdy-https://jx.dishuo.top/parser?url=
