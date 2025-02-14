@@ -1,6 +1,6 @@
 
 #工具版本
-uh=250202
+uh=250214
 
 #云控配置
 vygg=1
@@ -20,12 +20,15 @@ ljzz=lanzouw
 ksuvs=v1.0.3
 kndu=https://github.com/tiann/KernelSU/releases/download
 KernelSUapkx=KernelSU_v1.0.3_12018-release.apk
-KernelSUapkl=KernelSU_v1.0.0_11874-release.apk
-##KernelSUapkl=KernelSU_v0.9.5_11872-release.apk
+KernelSUapkl=KernelSU_v0.9.5_11872-release.apk
 
 #Ksud下载
 ksuddl=https://dishuo.lanzouw.com/ip2w82mjftha
 ksudmd5=753fd9ff617fcbb87c0f11f99f5cdd0b
+
+#kptools下载
+kptdl=https://dishuo.lanzouw.com/ivrOz2nq3e2b
+kptsmd5=506f84b91297067620a19fb067c83a07
 
 #小米限速修改方案
 xgzs=0
@@ -34,7 +37,7 @@ xgip=47.79.49.1_47.89.66.194
 ymdt=20240815
 xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miui.com_bn.d.miui.com
 
-##示例240401-240402-240404-240405-240412-240414-240422-240730-240801s-240912-241006-241215-250106
+##示例240401-240402-240404-240405-240412-240414-240422-240730-240801s-240912-241006-241215-250106-250202
 ##示例240425-240506-240508-240520-240530-240603-240628-240702-240801-240812-241004-241202-241218-250115
 
 #蓝奏解析服务###

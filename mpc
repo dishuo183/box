@@ -10,7 +10,7 @@
 <link rel='stylesheet' id='bootstrap-css'  href='https://miuiver.com/wp-content/themes/docui/assets/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='https://miuiver.com/wp-content/themes/docui/assets/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='fancybox-css'  href='https://miuiver.com/wp-content/themes/docui/assets/fancybox/jquery.fancybox.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='docui-css'  href='https://miuiver.com/wp-content/themes/docui/style.css?ver=1704957083' type='text/css' media='all' />
+<link rel='stylesheet' id='docui-css'  href='https://miuiver.com/wp-content/themes/docui/style.css?ver=1739022985' type='text/css' media='all' />
 <link rel='stylesheet' id='erphpdown-css'  href='https://miuiver.com/wp-content/plugins/erphpdown/static/erphpdown.css?ver=1647385270' type='text/css' media='screen' />
 <script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/jquery-3.4.1.min.js' id='jquery-min-js'></script>
 <script>window._ERPHPDOWN = {"uri":"https://miuiver.com/wp-content/plugins/erphpdown", "payment": "1", "author": "mobantu"}</script>
@@ -1500,7 +1500,6 @@
 <script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/jquery.dataTables.min.js' id='datatables-min-js'></script>
 <script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/datatables.mark.min.js' id='datatables-mark-min-js'></script>
 <script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/fancybox/jquery.fancybox.min.js' id='fancybox-min-js'></script>
-<script type='text/javascript' src='//open.thunderurl.com/thunder-link.js' id='thunder-min-js'></script>
 <script type='text/javascript' src='https://miuiver.com/wp-content/themes/docui/assets/docui.min.js?ver=1643631150' id='docui-min-js'></script>
 <script type='text/javascript' id='erphpdown-js-extra'>
 /* <![CDATA[ */
