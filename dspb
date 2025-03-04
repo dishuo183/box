@@ -7,12 +7,13 @@ vygg=1
 yvwjzv=5
 jqzv=10
 arg=1
+lzjxxz=zdy
 
 #下载网站配置
 wvym=https://dspb.dishuo.top
 wpxv=https://alist.dishuo.top
 zvlj=https://afdian.com/a/dishuo
-lzjx=https://api.cenguigui.cn/api/lanzou/api.php?url=
+lzjx=https://api.dishuo.top/api/lanzou/?url=
 lzjxurl=.data.downUrl
 ljzz=lanzouw
 
@@ -50,4 +51,4 @@ xgym=bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com_cdnorg.d.miu
 #(部分地区屏蔽).downUrl-https://www.hhlqilongzhu.cn/api/lanzouyun_jx.php?url=
 
 #自建解析服务
-#lzjxxz=zdy-https://jx.dishuo.top/parser?url=
+#lzjxxz=zdy-https://api.dishuo.top/parser?url=
