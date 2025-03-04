@@ -1,0 +1,216 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>DSPlayBox一些教程 | 狄硕DevLog</title><meta name="author" content="狄硕"><meta name="copyright" content="狄硕"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="全自动ROOT的教程">
+<meta property="og:type" content="article">
+<meta property="og:title" content="DSPlayBox一些教程">
+<meta property="og:url" content="https://dspb.dishuo.top/dspb-tutorial/index.html">
+<meta property="og:site_name" content="狄硕DevLog">
+<meta property="og:description" content="全自动ROOT的教程">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://www.helloimg.com/i/2025/02/04/67a188f73ed05.jpg">
+<meta property="article:published_time" content="2024-01-15T00:00:00.000Z">
+<meta property="article:modified_time" content="2025-03-04T05:55:46.392Z">
+<meta property="article:author" content="狄硕">
+<meta property="article:tag" content="DSPlayBox">
+<meta property="article:tag" content="KernelSU">
+<meta property="article:tag" content="Magisk">
+<meta property="article:tag" content="教程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.helloimg.com/i/2025/02/04/67a188f73ed05.jpg"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "DSPlayBox一些教程",
+  "url": "https://dspb.dishuo.top/dspb-tutorial/",
+  "image": "https://www.helloimg.com/i/2025/02/04/67a188f73ed05.jpg",
+  "datePublished": "2024-01-15T00:00:00.000Z",
+  "dateModified": "2025-03-04T05:55:46.392Z",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "狄硕",
+      "url": "https://dspb.dishuo.top/"
+    }
+  ]
+}</script><link rel="shortcut icon" href="/images/favicon.png"><link rel="canonical" href="https://dspb.dishuo.top/dspb-tutorial/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          const mediaQueryDark = window.matchMedia('(prefers-color-scheme: dark)')
+          const mediaQueryLight = window.matchMedia('(prefers-color-scheme: light)')
+          
+          if (theme === undefined) {
+            if (mediaQueryLight.matches) activateLightMode()
+            else if (mediaQueryDark.matches) activateDarkMode()
+            else {
+              const hour = new Date().getHours()
+              const isNight = hour <= 6 || hour >= 18
+              isNight ? activateDarkMode() : activateLightMode()
+            }
+            mediaQueryDark.addEventListener('change', () => {
+              if (saveToLocal.get('theme') === undefined) {
+                e.matches ? activateDarkMode() : activateLightMode()
+              }
+            })
+          } else {
+            theme === 'light' ? activateLightMode() : activateDarkMode()
+          }
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: true,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'DSPlayBox一些教程',
+  isHighlightShrink: false,
+  isToc: true,
+  pageType: 'post'
+}</script><meta name="generator" content="Hexo 7.3.0"></head><body><div id="web_bg" style="background-image: url(/images/ban.jpg);"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="/images/hi.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">7</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">6</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">3</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-house"></i><span> 主页</span></a></div><div class="menus_item"><a class="site-page" href="/dspbul/index.html"><i class="fa-fw fas fa-list-ul"></i><span> 更新日志</span></a></div><div class="menus_item"><a class="site-page" href="/archives/index.html"><i class="fa-fw fas fa-box-archive"></i><span> 归档数据</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://alist.dishuo.top/"><i class="fa-fw fas fa-file-arrow-down"></i><span> 资源下载</span></a></div><div class="menus_item"><a class="site-page" href="/about/index.html"><i class="fa-fw fas fa-ellipsis"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="not-top-img" id="page-header"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><img class="site-icon" src="/images/favicon.png" alt="Logo"><span class="site-name">狄硕DevLog</span></a><a class="nav-page-title" href="/"><span class="site-name">DSPlayBox一些教程</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-house"></i><span> 主页</span></a></div><div class="menus_item"><a class="site-page" href="/dspbul/index.html"><i class="fa-fw fas fa-list-ul"></i><span> 更新日志</span></a></div><div class="menus_item"><a class="site-page" href="/archives/index.html"><i class="fa-fw fas fa-box-archive"></i><span> 归档数据</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://alist.dishuo.top/"><i class="fa-fw fas fa-file-arrow-down"></i><span> 资源下载</span></a></div><div class="menus_item"><a class="site-page" href="/about/index.html"><i class="fa-fw fas fa-ellipsis"></i><span> 关于</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav></header><main class="layout" id="content-inner"><div id="post"><div id="post-info"><h1 class="post-title">DSPlayBox一些教程</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-01-15T00:00:00.000Z" title="发表于 2024/01/15 00:00:00">2024/01/15</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-03-04T05:55:46.392Z" title="更新于 2025/03/04 05:55:46">2025/03/04</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E6%8A%80%E6%9C%AF/">技术</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">总字数:</span><span class="word-count">638</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>1分钟</span></span></div></div></div><article class="container post-content" id="article-container"><blockquote>
+<p>本工具免费提供给网友 禁止商用！ 禁止倒卖！<br>如发现任何将DSPlayBox用于商业用途的行为 包括但不限于倒卖、付费远程ROOT等！<br>请进群【<a target="_blank" rel="noopener" href="https://qm.qq.com/q/KmLdq9AeYi">385475461</a>】或者加作者QQ【<a target="_blank" rel="noopener" href="https://qm.qq.com/q/zP6sh9CFBC">1871549721</a>】进行举报！</p>
+</blockquote>
+<hr>
+<h1 id="全自动-Magisk-KernelSU"><a href="#全自动-Magisk-KernelSU" class="headerlink" title="全自动 Magisk&#x2F;KernelSU"></a>全自动 Magisk&#x2F;KernelSU</h1><p>新-全自动安装Magisk：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Gm421E7Bu">查看连接</a>（适配小米红米安卓8-安卓15所有机型）</p>
+<p>新-全自动安装KernelSU：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1XW42197L5">查看链接</a>（适配小米红米865&#x2F;870&#x2F;888CPU和内核5.10及以上机型）</p>
+<p>手动安装Magisk：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV14K4y1w7nu/">查看链接</a>（需自己下载卡刷包，适配安卓8-安卓15机型）</p>
+<p>小米线刷救砖教程：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Ks4y137eK">查看链接</a></p>
+<hr>
+<h1 id="全自动ROOT相关"><a href="#全自动ROOT相关" class="headerlink" title="全自动ROOT相关"></a>全自动ROOT相关</h1><p>在240203以及之后版本的工具，新增了全自动ROOT的历史纪录功能，在全自动ROOT的主页面输入<code>ls</code>即可自动打开历史记录存放文件夹。</p>
+<p><img src="https://www.helloimg.com/i/2024/06/14/666bcd2be1a99.png" alt="picture"></p>
+<p>工具在运行完全自动安装Magisk&#x2F;KernelSU后，会自动截取工具运行记录，以及输出你手机的基本信息到这个文件夹内</p>
+<p><img src="https://www.helloimg.com/i/2024/06/14/666bcd2c02dcd.png" alt="picture"></p>
+<p>包含你你手机的代号、安卓版本、系统版本、内核版本等等，即使在全自动刷机之后不开机，仍然可以通过这些信息下载卡刷包自救。可以通过自动截图来判断出错的地方不用再重新刷机。</p>
+<p><img src="https://www.helloimg.com/i/2024/06/14/666bcd2be2fa5.png" alt="picture"></p>
+<hr>
+<h1 id="快速提取init-boot-boot"><a href="#快速提取init-boot-boot" class="headerlink" title="快速提取init_boot&#x2F;boot"></a>快速提取init_boot&#x2F;boot</h1><p>工具支持使用本地卡刷包提取init_boot&#x2F;boot文件，同样支持使用包名提取init_boot&#x2F;boot，并且支持非payload.bin卡刷包提取boot.img文件！<font color=Red>[等同于支持小米红米全机型提取]</font></p>
+<p>首先，打开工具输入3进入BOOT专区，输入1使用【卡刷包提取boot和init_boot】，输入卡刷包的包名[即卡刷包的名字，不能使用链接]，必须包含<font color=Red>.zip</font>，如图所示，理论支持小米红米全机型！！</p>
+<p>使用包名提取boot，工具会自动补齐链接，并且使用和【修改小米下载ROM限速】相同的补齐方案，提取前请确保已修改不限速！</p>
+<p><img src="https://www.helloimg.com/i/2025/01/15/67875e4d6d9e4.png" alt="picture"></p>
+<h1 id="关于文件拖入问题"><a href="#关于文件拖入问题" class="headerlink" title="关于文件拖入问题"></a>关于文件拖入问题</h1><p>由于windwos的管理员权限打开的程序无法拖入文件，如果你的电脑系统正常打开也是无法拖入的，那么你可以在工具主页输入<code>tr</code>并回车，程序运行后请重启电脑，即可实现正常拖入文件！</p>
+<ul>
+<li>注意，如果你能正常拖入就不要用这个，不然以后打开软件都是管理员权限！</li>
+</ul>
+</article><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/DSPlayBox/">DSPlayBox</a><a class="post-meta__tags" href="/tags/KernelSU/">KernelSU</a><a class="post-meta__tags" href="/tags/Magisk/">Magisk</a><a class="post-meta__tags" href="/tags/%E6%95%99%E7%A8%8B/">教程</a></div></div><nav class="pagination-post" id="pagination"><a class="pagination-related  no-desc" href="/devices-twrp-magisk/" title="使用TWRP安装Magisk适配机型"><img class="cover" src="https://www.helloimg.com/i/2025/02/04/67a188f529551.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post"><div class="info"><div class="info-1"><div class="info-item-1">上一篇</div><div class="info-item-2">使用TWRP安装Magisk适配机型</div></div></div></a><a class="pagination-related" href="/dspb-ghtwrp/" title="固化TWRP手动安装教程"><img class="cover" src="https://www.helloimg.com/i/2025/02/04/67a188f729bda.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="info text-right"><div class="info-1"><div class="info-item-1">下一篇</div><div class="info-item-2">固化TWRP手动安装教程</div></div><div class="info-2"><div class="info-item-1">全自动ROOT的教程</div></div></div></a></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src="/images/hi.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info-name">狄硕</div><div class="author-info-description"></div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">7</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">6</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">3</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://space.bilibili.com/32318753/"><i class="fab fa-bilibili"></i><span>关注我</span></a><div class="card-info-social-icons"><a class="social-icon" href="https://github.com/dishuo183" target="_blank" title="GitHub@dishuo183"><i class="fab fa-github" style="color: #24292e;"></i></a><a class="social-icon" href="https://space.bilibili.com/32318753/" target="_blank" title="UID:32318753"><i class="fab fa-bilibili" style="color: #24292e;"></i></a><a class="social-icon" href="https://qm.qq.com/q/zP6sh9CFBC" target="_blank" title="QQ:1871549721"><i class="fab fa-qq" style="color: #24292e;"></i></a><a class="social-icon" href="mailto:dishuo183@qq.com" target="_blank" title="Email:dishuo183@qq.com"><i class="fas fa-envelope" style="color: #24292e;"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><p>欢迎来到狄硕的小站&nbsp;<br>工具最新版 <a target="_blank" rel="noopener" href="https://dishuo.lanzouw.com/b0eylud6j">点我下载&nbsp;<br></a>&nbsp;密码：dspbnb</p></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%85%A8%E8%87%AA%E5%8A%A8-Magisk-KernelSU"><span class="toc-number">1.</span> <span class="toc-text">全自动 Magisk&#x2F;KernelSU</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%85%A8%E8%87%AA%E5%8A%A8ROOT%E7%9B%B8%E5%85%B3"><span class="toc-number">2.</span> <span class="toc-text">全自动ROOT相关</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%BF%AB%E9%80%9F%E6%8F%90%E5%8F%96init-boot-boot"><span class="toc-number">3.</span> <span class="toc-text">快速提取init_boot&#x2F;boot</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6%E6%8B%96%E5%85%A5%E9%97%AE%E9%A2%98"><span class="toc-number">4.</span> <span class="toc-text">关于文件拖入问题</span></a></li></ol></div></div></div></div></main><footer id="footer" style="background: transparent;"><div id="footer-wrap"><div class="copyright">&copy;2022 - 2025 By 狄硕</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text"><a target="_blank" rel="noopener" href="https://beian.miit.gov.cn/#/Integrated/index"><span>豫ICP备2023012307号-1</span>&nbsp;<br>
+<a target="_blank" rel="noopener" href="https://beian.mps.gov.cn/#/query/webSearch?code=41110002000320">
+  <img src="/images/badge.png" width="15" style="vertical-align: -3px;"/>
+  <span> 豫公网安备41110002000320号</span>
+</a>
+</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"></div><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+POWERMODE.mobile = false;
+document.body.addEventListener('input', POWERMODE);
+</script></div></body></html>
